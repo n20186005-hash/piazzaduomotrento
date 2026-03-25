@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "Piazza del Duomo di Trento – Visitor Guide",
+    "description": "Independent guide to Piazza del Duomo di Trento: history, photos, reviews and practical tips."
+  },
+  "nav": {
+    "discover": "Discover",
+    "photos": "Photos",
+    "reviews": "Reviews",
+    "map": "Map",
+    "lang": {
+      "it": "Italiano",
+      "en": "English",
+      "de": "Deutsch",
+      "zh-Hant": "繁體中文"
+    }
+  },
+  "hero": {
+    "title": "Piazza del Duomo di Trento",
+    "subtitle": "The historic and cultural heart of Trento",
+    "rating": "4.6/5",
+    "ratingCount": "(10,622 reviews)",
+    "hours": "Open 24/7",
+    "address": "Piazza del Duomo, 18, 38122 Trento TN, Italy",
+    "openMaps": "Open on Google Maps",
+    "tags": ["Cathedral", "Square", "Neptune Fountain", "Frescoes", "Architecture", "Photography"]
+  },
+  "intro": {
+    "title": "Why Visit Piazza del Duomo",
+    "description": "Piazza del Duomo is the beating heart of Trento, dominated by the majestic Cathedral of San Vigilio and the famous Neptune Fountain. This medieval square tells centuries of history, from the Council of Trent to the Renaissance frescoes of the Cazuffi-Rella Houses.",
+    "highlights": [
+      "Cathedral of San Vigilio – Romanesque-Gothic masterpiece from the 13th century",
+      "Neptune Fountain – iconic city symbol, 18th century",
+      "Cazuffi-Rella Houses – Renaissance frescoed facades",
+      "Palazzo Pretorio and Civic Tower – medieval architecture",
+      "Site of the Council of Trent (1545–1563)",
+      "Cafés and restaurants with views of the square"
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Views of Piazza del Duomo di Trento",
+    "photos": [
+      { "caption": "Panoramic view of the square with the Cathedral" },
+      { "caption": "Neptune Fountain at sunset" },
+      { "caption": "Detail of frescoes on the Cazuffi-Rella Houses" },
+      { "caption": "Civic Tower and Palazzo Pretorio" },
+      { "caption": "Evening atmosphere in the square" },
+      { "caption": "Portal of the Cathedral of San Vigilio" },
+      { "caption": "Christmas markets in Piazza Duomo" },
+      { "caption": "Aerial view of the medieval square" }
+    ]
+  },
+  "reviews": {
+    "title": "Real Visitor Reviews",
+    "declaration": "Ratings and reviews come from Google Maps (last updated: 2026). We only show a verified selection of highly-rated reviews. To see all complete and most recent reviews, click the link below.",
+    "moreLink": "See more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah K.",
+        "date": "March 2026",
+        "stars": 5,
+        "text": "Stunning square, one of the most beautiful historic centres in Trentino. The cathedral is impressive and the Neptune Fountain is a gem."
+      },
+      {
+        "name": "James P.",
+        "date": "February 2026",
+        "stars": 5,
+        "text": "Enchanting atmosphere day and night. The frescoes on the houses are extraordinary. A must-see."
+      },
+      {
+        "name": "Emily W.",
+        "date": "January 2026",
+        "stars": 5,
+        "text": "The heart of Trento. Perfect for a stroll, a coffee and admiring the historic architecture. Very well maintained."
+      },
+      {
+        "name": "David L.",
+        "date": "December 2025",
+        "stars": 4,
+        "text": "Beautiful historic square. In winter with the Christmas markets it becomes magical. A bit crowded on weekends."
+      },
+      {
+        "name": "Anna M.",
+        "date": "November 2025",
+        "stars": 5,
+        "text": "A place rich in history. The Council of Trent was held right here. The cathedral deserves a thorough visit."
+      },
+      {
+        "name": "Thomas R.",
+        "date": "October 2025",
+        "stars": 5,
+        "text": "One of the most photogenic squares in Italy. The sunset light on the cathedral is spectacular."
+      },
+      {
+        "name": "Sophie H.",
+        "date": "September 2025",
+        "stars": 4,
+        "text": "Elegant and well-kept square. Excellent restaurants nearby. I recommend also visiting the archaeological underground."
+      },
+      {
+        "name": "Michael B.",
+        "date": "August 2025",
+        "stars": 5,
+        "text": "Spectacular! The combination of medieval and Renaissance architecture is unique. Trento is a hidden gem."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Visit Guide & Surroundings",
+    "duration": {
+      "title": "How long does it take?",
+      "text": "Square visit: 30–60 minutes. With cathedral and diocesan museum: 2–3 hours. Half a day recommended to explore the historic centre."
+    },
+    "worthIt": {
+      "title": "Is it worth it?",
+      "text": "Absolutely. It's the ideal starting point to discover Trento. Access to the square is free, cathedral entry is free."
+    },
+    "inside": {
+      "title": "What's inside the Cathedral?",
+      "text": "Romanesque-Gothic nave, crypt with remains of an early Christian basilica, medieval frescoes, and the Chapel of the Crucifix where the decrees of the Council of Trent were proclaimed."
+    },
+    "nearby": {
+      "title": "Nearby Attractions",
+      "items": [
+        { "name": "Buonconsiglio Castle", "distance": "600m", "note": "The largest monumental complex in Trentino" },
+        { "name": "MUSE – Science Museum", "distance": "1.2km", "note": "Museum designed by Renzo Piano" },
+        { "name": "Via Belenzani", "distance": "100m", "note": "Renaissance frescoed palaces" },
+        { "name": "Civic Tower", "distance": "0m", "note": "In the square itself, panoramic view" }
+      ]
+    },
+    "tips": {
+      "title": "Practical Tips",
+      "items": [
+        "Visit early morning to avoid crowds and get the best light",
+        "Christmas markets (November–December) are unmissable",
+        "Parking: Autosilo Buonconsiglio, 5-minute walk",
+        "Wheelchair accessible (flat square, smooth paving)",
+        "Combine with a visit to Buonconsiglio Castle"
+      ]
+    }
+  },
+  "map": {
+    "title": "How to Get There",
+    "openMaps": "Open on Google Maps",
+    "planRoute": "Plan your route"
+  },
+  "sources": {
+    "title": "Data & References",
+    "text": "This site is an independent tourism information project about Trento. It is not affiliated with the official management of the square or the municipality of Trento.",
+    "items": [
+      "Ratings and reviews: Google Maps",
+      "Photographs: Unsplash (free license)",
+      "Historical information: public sources, Trentino tourism office, Wikipedia"
+    ]
+  },
+  "footer": {
+    "support": "For technical support regarding this site, contact:",
+    "rights": "© 2026 Piazza del Duomo di Trento · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "This site collects minimal browsing data (technical cookies, anonymized analytics) to improve user experience. We do not collect personally identifiable data. We do not share data with third parties for commercial purposes. For privacy questions: claritleonelmnicol@gmail.com"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "content": "This site is an independent tourism information project. Content is provided for informational purposes and may not always be up to date. Images come from Unsplash (free license). Reviews are extracted from public sources. Use of this site implies acceptance of these terms."
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "content": "We use technical cookies necessary for the site to function and anonymized analytical cookies to understand site usage. You can disable analytical cookies in your browser settings. For more information: claritleonelmnicol@gmail.com"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  }
+}

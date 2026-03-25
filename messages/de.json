@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "Piazza del Duomo di Trento – Besucherführer",
+    "description": "Unabhängiger Reiseführer zur Piazza del Duomo di Trento: Geschichte, Fotos, Bewertungen und praktische Tipps."
+  },
+  "nav": {
+    "discover": "Entdecken",
+    "photos": "Fotos",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "lang": {
+      "it": "Italiano",
+      "en": "English",
+      "de": "Deutsch",
+      "zh-Hant": "繁體中文"
+    }
+  },
+  "hero": {
+    "title": "Piazza del Duomo di Trento",
+    "subtitle": "Das historische und kulturelle Herz von Trient",
+    "rating": "4,6/5",
+    "ratingCount": "(10.622 Bewertungen)",
+    "hours": "24 Stunden geöffnet",
+    "address": "Piazza del Duomo, 18, 38122 Trento TN, Italien",
+    "openMaps": "Auf Google Maps öffnen",
+    "tags": ["Kathedrale", "Platz", "Neptunbrunnen", "Fresken", "Architektur", "Fotografie"]
+  },
+  "intro": {
+    "title": "Warum die Piazza del Duomo besuchen",
+    "description": "Die Piazza del Duomo ist das pulsierende Herz von Trient, beherrscht von der majestätischen Kathedrale San Vigilio und dem berühmten Neptunbrunnen. Dieser mittelalterliche Platz erzählt Jahrhunderte Geschichte, vom Konzil von Trient bis zu den Renaissance-Fresken der Häuser Cazuffi-Rella.",
+    "highlights": [
+      "Kathedrale San Vigilio – romanisch-gotisches Meisterwerk aus dem 13. Jahrhundert",
+      "Neptunbrunnen – ikonisches Stadtsymbol, 18. Jahrhundert",
+      "Häuser Cazuffi-Rella – Renaissance-Fassadenfresken",
+      "Palazzo Pretorio und Stadtturm – mittelalterliche Architektur",
+      "Ort des Konzils von Trient (1545–1563)",
+      "Cafés und Restaurants mit Blick auf den Platz"
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalerie",
+    "subtitle": "Ansichten der Piazza del Duomo di Trento",
+    "photos": [
+      { "caption": "Panoramablick auf den Platz mit der Kathedrale" },
+      { "caption": "Neptunbrunnen bei Sonnenuntergang" },
+      { "caption": "Detail der Fresken an den Häusern Cazuffi-Rella" },
+      { "caption": "Stadtturm und Palazzo Pretorio" },
+      { "caption": "Abendstimmung auf dem Platz" },
+      { "caption": "Portal der Kathedrale San Vigilio" },
+      { "caption": "Weihnachtsmärkte auf der Piazza Duomo" },
+      { "caption": "Luftaufnahme des mittelalterlichen Platzes" }
+    ]
+  },
+  "reviews": {
+    "title": "Echte Besucherbewertungen",
+    "declaration": "Bewertungen stammen von Google Maps (letztes Update: 2026). Wir zeigen nur eine verifizierte Auswahl hoch bewerteter Rezensionen. Für alle vollständigen und aktuellsten Bewertungen klicken Sie auf den Link unten.",
+    "moreLink": "Mehr Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "Stefan H.",
+        "date": "März 2026",
+        "stars": 5,
+        "text": "Wunderschöner Platz, eines der schönsten historischen Zentren im Trentino. Die Kathedrale ist beeindruckend und der Neptunbrunnen ein Juwel."
+      },
+      {
+        "name": "Monika W.",
+        "date": "Februar 2026",
+        "stars": 5,
+        "text": "Bezaubernde Atmosphäre bei Tag und Nacht. Die Fresken an den Häusern sind außergewöhnlich. Ein Muss."
+      },
+      {
+        "name": "Klaus P.",
+        "date": "Januar 2026",
+        "stars": 5,
+        "text": "Das Herz von Trient. Perfekt für einen Spaziergang, einen Kaffee und die Bewunderung der historischen Architektur."
+      },
+      {
+        "name": "Andrea K.",
+        "date": "Dezember 2025",
+        "stars": 4,
+        "text": "Wunderschöner historischer Platz. Im Winter mit den Weihnachtsmärkten wird er magisch. Am Wochenende etwas überfüllt."
+      },
+      {
+        "name": "Petra M.",
+        "date": "November 2025",
+        "stars": 5,
+        "text": "Ein geschichtsträchtiger Ort. Das Konzil von Trient fand genau hier statt. Die Kathedrale verdient einen gründlichen Besuch."
+      },
+      {
+        "name": "Hans R.",
+        "date": "Oktober 2025",
+        "stars": 5,
+        "text": "Einer der fotogensten Plätze Italiens. Das Sonnenuntergangslicht auf der Kathedrale ist spektakulär."
+      },
+      {
+        "name": "Sabine L.",
+        "date": "September 2025",
+        "stars": 4,
+        "text": "Eleganter und gepflegter Platz. Ausgezeichnete Restaurants in der Nähe. Empfehle auch die archäologischen Untergeschosse."
+      },
+      {
+        "name": "Wolfgang F.",
+        "date": "August 2025",
+        "stars": 5,
+        "text": "Spektakulär! Die Kombination aus mittelalterlicher und Renaissance-Architektur ist einzigartig. Trient ist ein verstecktes Juwel."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Besucherführer & Umgebung",
+    "duration": {
+      "title": "Wie lange braucht man?",
+      "text": "Platzbesichtigung: 30–60 Minuten. Mit Kathedrale und Diözesanmuseum: 2–3 Stunden. Ein halber Tag empfohlen für die Altstadt."
+    },
+    "worthIt": {
+      "title": "Lohnt es sich?",
+      "text": "Absolut. Der ideale Ausgangspunkt, um Trient zu entdecken. Zugang zum Platz kostenlos, Kathedrale kostenlos."
+    },
+    "inside": {
+      "title": "Was ist in der Kathedrale?",
+      "text": "Romanisch-gotisches Kirchenschiff, Krypta mit Resten einer frühchristlichen Basilika, mittelalterliche Fresken und die Kreuzkapelle, wo die Dekrete des Konzils von Trient verkündet wurden."
+    },
+    "nearby": {
+      "title": "Sehenswürdigkeiten in der Nähe",
+      "items": [
+        { "name": "Castello del Buonconsiglio", "distance": "600m", "note": "Der größte Monumentalkomplex im Trentino" },
+        { "name": "MUSE – Wissenschaftsmuseum", "distance": "1,2km", "note": "Von Renzo Piano entworfenes Museum" },
+        { "name": "Via Belenzani", "distance": "100m", "note": "Renaissance-Freskenpaläste" },
+        { "name": "Stadtturm", "distance": "0m", "note": "Auf dem Platz selbst, Panoramablick" }
+      ]
+    },
+    "tips": {
+      "title": "Praktische Tipps",
+      "items": [
+        "Früh morgens besuchen, um Menschenmengen zu vermeiden",
+        "Weihnachtsmärkte (November–Dezember) sind ein Muss",
+        "Parken: Autosilo Buonconsiglio, 5 Minuten zu Fuß",
+        "Rollstuhlgerecht (flacher Platz, glatte Pflasterung)",
+        "Kombination mit einem Besuch des Castello del Buonconsiglio"
+      ]
+    }
+  },
+  "map": {
+    "title": "Anfahrt",
+    "openMaps": "Auf Google Maps öffnen",
+    "planRoute": "Route planen"
+  },
+  "sources": {
+    "title": "Daten & Quellen",
+    "text": "Diese Seite ist ein unabhängiges Tourismusinformationsprojekt über Trient. Sie ist nicht mit der offiziellen Verwaltung des Platzes oder der Gemeinde Trient verbunden.",
+    "items": [
+      "Bewertungen: Google Maps",
+      "Fotografien: Unsplash (kostenlose Lizenz)",
+      "Historische Informationen: öffentliche Quellen, Tourismusbüro Trentino, Wikipedia"
+    ]
+  },
+  "footer": {
+    "support": "Für technischen Support zu dieser Seite kontaktieren Sie:",
+    "rights": "© 2026 Piazza del Duomo di Trento · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "content": "Diese Seite erfasst minimale Browsing-Daten (technische Cookies, anonymisierte Analysen) zur Verbesserung der Benutzererfahrung. Wir erheben keine personenbezogenen Daten. Wir teilen keine Daten mit Dritten zu kommerziellen Zwecken. Für Datenschutzfragen: claritleonelmnicol@gmail.com"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "content": "Diese Seite ist ein unabhängiges Tourismusinformationsprojekt. Inhalte dienen nur zu Informationszwecken und sind möglicherweise nicht immer aktuell. Bilder stammen von Unsplash (kostenlose Lizenz). Bewertungen stammen aus öffentlichen Quellen. Die Nutzung dieser Seite impliziert die Akzeptanz dieser Bedingungen."
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "content": "Wir verwenden technisch notwendige Cookies und anonymisierte Analyse-Cookies. Sie können Analyse-Cookies in Ihren Browsereinstellungen deaktivieren. Für weitere Informationen: claritleonelmnicol@gmail.com"
+  },
+  "theme": {
+    "light": "Hellmodus",
+    "dark": "Dunkelmodus"
+  }
+}

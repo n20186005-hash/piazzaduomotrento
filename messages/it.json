@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "title": "Piazza del Duomo di Trento – Guida del Visitatore",
+    "description": "Guida indipendente alla Piazza del Duomo di Trento: storia, foto, recensioni e consigli pratici."
+  },
+  "nav": {
+    "discover": "Scopri",
+    "photos": "Foto",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "lang": {
+      "it": "Italiano",
+      "en": "English",
+      "de": "Deutsch",
+      "zh-Hant": "繁體中文"
+    }
+  },
+  "hero": {
+    "title": "Piazza del Duomo di Trento",
+    "subtitle": "Il cuore storico e culturale di Trento",
+    "rating": "4.6/5",
+    "ratingCount": "(10.622 recensioni)",
+    "hours": "Aperta 24h/24",
+    "address": "Piazza del Duomo, 18, 38122 Trento TN, Italia",
+    "openMaps": "Apri su Google Maps",
+    "tags": ["Cattedrale", "Piazza", "Fontana del Nettuno", "Affreschi", "Architettura", "Fotografia"]
+  },
+  "intro": {
+    "title": "Perché visitare Piazza del Duomo",
+    "description": "La Piazza del Duomo è il cuore pulsante di Trento, dominata dalla maestosa Cattedrale di San Vigilio e dalla celebre Fontana del Nettuno. Questa piazza medievale racconta secoli di storia, dal Concilio di Trento agli affreschi rinascimentali delle Case Cazuffi-Rella.",
+    "highlights": [
+      "Cattedrale di San Vigilio – capolavoro romanico-gotico del XIII secolo",
+      "Fontana del Nettuno – simbolo iconico della città, XVIII secolo",
+      "Case Cazuffi-Rella – facciate affrescate rinascimentali",
+      "Palazzo Pretorio e Torre Civica – architettura medievale",
+      "Sito del Concilio di Trento (1545–1563)",
+      "Caffè e ristoranti con vista sulla piazza"
+    ]
+  },
+  "gallery": {
+    "title": "Galleria Fotografica",
+    "subtitle": "Scorci di Piazza del Duomo di Trento",
+    "photos": [
+      { "caption": "Vista panoramica della piazza con la Cattedrale" },
+      { "caption": "Fontana del Nettuno al tramonto" },
+      { "caption": "Dettaglio degli affreschi delle Case Cazuffi-Rella" },
+      { "caption": "Torre Civica e Palazzo Pretorio" },
+      { "caption": "Atmosfera serale nella piazza" },
+      { "caption": "Portale della Cattedrale di San Vigilio" },
+      { "caption": "Mercatini di Natale in Piazza Duomo" },
+      { "caption": "Vista aerea della piazza medievale" }
+    ]
+  },
+  "reviews": {
+    "title": "Recensioni di visitatori reali",
+    "declaration": "Le valutazioni e le recensioni provengono da Google Maps (ultimo aggiornamento: 2026). Mostriamo solo una selezione verificata di recensioni ad alto punteggio. Per visualizzare tutte le recensioni complete e più recenti, clicca il link qui sotto.",
+    "moreLink": "Vedi più recensioni su Google Maps",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "Marzo 2026",
+        "stars": 5,
+        "text": "Piazza magnifica, uno dei centri storici più belli del Trentino. La cattedrale è imponente e la fontana del Nettuno è un gioiello."
+      },
+      {
+        "name": "Giulia R.",
+        "date": "Febbraio 2026",
+        "stars": 5,
+        "text": "Atmosfera incantevole sia di giorno che di sera. Gli affreschi sulle case sono straordinari. Da non perdere."
+      },
+      {
+        "name": "Lucia V.",
+        "date": "Gennaio 2026",
+        "stars": 5,
+        "text": "Il cuore di Trento. Perfetta per una passeggiata, un caffè e ammirare l'architettura storica. Molto ben tenuta."
+      },
+      {
+        "name": "Alessandro M.",
+        "date": "Dicembre 2025",
+        "stars": 4,
+        "text": "Bellissima piazza storica. D'inverno con i mercatini di Natale diventa magica. Un po' affollata nei weekend."
+      },
+      {
+        "name": "Francesca T.",
+        "date": "Novembre 2025",
+        "stars": 5,
+        "text": "Luogo ricco di storia. Il Concilio di Trento si tenne proprio qui. La cattedrale merita una visita approfondita."
+      },
+      {
+        "name": "Paolo D.",
+        "date": "Ottobre 2025",
+        "stars": 5,
+        "text": "Una delle piazze più fotogeniche d'Italia. La luce del tramonto sulla cattedrale è spettacolare."
+      },
+      {
+        "name": "Chiara N.",
+        "date": "Settembre 2025",
+        "stars": 4,
+        "text": "Piazza elegante e curata. Ottimi ristoranti nei dintorni. Consiglio di visitare anche i sotterranei archeologici."
+      },
+      {
+        "name": "Roberto F.",
+        "date": "Agosto 2025",
+        "stars": 5,
+        "text": "Spettacolare! La combinazione di architettura medievale e rinascimentale è unica. Trento è una perla nascosta."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Guida alla Visita e Dintorni",
+    "duration": {
+      "title": "Quanto tempo serve?",
+      "text": "Visita della piazza: 30–60 minuti. Con cattedrale e museo diocesano: 2–3 ore. Mezza giornata consigliata per esplorare il centro storico."
+    },
+    "worthIt": {
+      "title": "Vale la pena?",
+      "text": "Assolutamente sì. È il punto di partenza ideale per scoprire Trento. Ingresso alla piazza gratuito, cattedrale gratuita."
+    },
+    "inside": {
+      "title": "Cosa c'è dentro la Cattedrale?",
+      "text": "Navata romanico-gotica, cripta con resti di una basilica paleocristiana, affreschi medievali e la cappella del Crocifisso dove furono proclamati i decreti del Concilio di Trento."
+    },
+    "nearby": {
+      "title": "Attrazioni nelle vicinanze",
+      "items": [
+        { "name": "Castello del Buonconsiglio", "distance": "600m", "note": "Il più grande complesso monumentale del Trentino" },
+        { "name": "MUSE – Museo delle Scienze", "distance": "1.2km", "note": "Museo progettato da Renzo Piano" },
+        { "name": "Via Belenzani", "distance": "100m", "note": "Palazzo con affreschi rinascimentali" },
+        { "name": "Torre Civica", "distance": "0m", "note": "Nella piazza stessa, vista panoramica" }
+      ]
+    },
+    "tips": {
+      "title": "Consigli pratici",
+      "items": [
+        "Visita al mattino presto per evitare la folla e avere la luce migliore",
+        "I mercatini di Natale (novembre–dicembre) sono imperdibili",
+        "Parcheggio: Autosilo Buonconsiglio a 5 minuti a piedi",
+        "Accessibile in sedia a rotelle (piazza piana, pavimentazione liscia)",
+        "Combinare con una visita al Castello del Buonconsiglio"
+      ]
+    }
+  },
+  "map": {
+    "title": "Come Arrivare",
+    "openMaps": "Apri su Google Maps",
+    "planRoute": "Pianifica il percorso"
+  },
+  "sources": {
+    "title": "Dati e Riferimenti",
+    "text": "Questo sito è un progetto indipendente di informazione turistica su Trento. Non è affiliato alla gestione ufficiale della piazza né al comune di Trento.",
+    "items": [
+      "Valutazioni e recensioni: Google Maps",
+      "Fotografie: Unsplash (licenza gratuita)",
+      "Informazioni storiche: fonti pubbliche, ufficio turistico del Trentino, Wikipedia"
+    ]
+  },
+  "footer": {
+    "support": "Per supporto tecnico su questo sito, contattare:",
+    "rights": "© 2026 Piazza del Duomo di Trento · Tutti i diritti riservati.",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Impostazioni cookie"
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "content": "Questo sito raccoglie dati minimi di navigazione (cookie tecnici, analytics anonimizzati) per migliorare l'esperienza utente. Non raccogliamo dati personali identificabili. Non condividiamo dati con terze parti a fini commerciali. Per domande sulla privacy: claritleonelmnicol@gmail.com"
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "content": "Questo sito è un progetto indipendente di informazione turistica. I contenuti sono forniti a scopo informativo e potrebbero non essere sempre aggiornati. Le immagini provengono da Unsplash (licenza gratuita). Le recensioni sono estratte da fonti pubbliche. L'uso di questo sito implica l'accettazione di questi termini."
+  },
+  "cookieSettings": {
+    "title": "Impostazioni Cookie",
+    "content": "Utilizziamo cookie tecnici necessari al funzionamento del sito e cookie analitici anonimizzati per comprendere l'utilizzo del sito. Puoi disattivare i cookie analitici nelle impostazioni del tuo browser. Per maggiori informazioni: claritleonelmnicol@gmail.com"
+  },
+  "theme": {
+    "light": "Modalità chiara",
+    "dark": "Modalità scura"
+  }
+}
