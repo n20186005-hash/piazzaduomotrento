@@ -24,7 +24,7 @@ export default function Hero() {
 
       <div className="hero-bg">
         <img
-          src="https://images.unsplash.com/photo-1608898842757-6e5742df0d66?w=1600&q=80"
+          src="/gallery/images (14).jpg"
           alt="Piazza del Duomo di Trento"
           className="hero-img"
         />

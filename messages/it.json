@@ -40,15 +40,22 @@
   "gallery": {
     "title": "Galleria Fotografica",
     "subtitle": "Scorci di Piazza del Duomo di Trento",
+    "declaration": "Descrizioni da Google Maps, aggiornate di recente nel 2026. Per visualizzare tutte le foto, fai clic sul link sottostante",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
-      { "caption": "Vista panoramica della piazza con la Cattedrale" },
+      { "caption": "Vista panoramica della piazza con il Duomo" },
       { "caption": "Fontana del Nettuno al tramonto" },
       { "caption": "Dettaglio degli affreschi delle Case Cazuffi-Rella" },
       { "caption": "Torre Civica e Palazzo Pretorio" },
-      { "caption": "Atmosfera serale nella piazza" },
-      { "caption": "Portale della Cattedrale di San Vigilio" },
+      { "caption": "Atmosfera serale in piazza" },
+      { "caption": "Portale del Duomo di San Vigilio" },
       { "caption": "Mercatini di Natale in Piazza Duomo" },
-      { "caption": "Vista aerea della piazza medievale" }
+      { "caption": "Vista dall'alto della piazza medievale" },
+      { "caption": "Angolo della piazza" },
+      { "caption": "Dettagli architettonici" },
+      { "caption": "Vista panoramica 2" },
+      { "caption": "Fontana da vicino" },
+      { "caption": "Vista della strada" }
     ]
   },
   "reviews": {
@@ -163,15 +170,65 @@
   },
   "privacy": {
     "title": "Informativa sulla Privacy",
-    "content": "Questo sito raccoglie dati minimi di navigazione (cookie tecnici, analytics anonimizzati) per migliorare l'esperienza utente. Non raccogliamo dati personali identificabili. Non condividiamo dati con terze parti a fini commerciali. Per domande sulla privacy: claritleonelmnicol@gmail.com"
+    "content": "Questo sito raccoglie dati di navigazione minimi (cookie tecnici, analitici anonimizzati) per migliorare l'esperienza dell'utente. Non raccogliamo dati di identificazione personale. Non condividiamo dati con terze parti per scopi commerciali. Per questioni di privacy: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "1. Raccolta delle informazioni",
+        "content": "Ci impegniamo a proteggere la tua privacy. Questo sito funge principalmente da piattaforma informativa e generalmente non raccoglie attivamente informazioni di identificazione personale dagli utenti. Tuttavia, attraverso i log del server e gli strumenti di analisi, potremmo raccogliere informazioni non di identificazione personale come il tipo di browser, i tempi di accesso e i record di visualizzazione delle pagine."
+      },
+      {
+        "title": "2. Uso dei cookie",
+        "content": "Per fornire un'esperienza utente migliore e capire come viene utilizzato il sito, potremmo utilizzare i cookie. Questi cookie vengono utilizzati per ricordare le preferenze dell'utente e analizzare il traffico del sito. Puoi regolare le impostazioni dei cookie nel tuo browser."
+      },
+      {
+        "title": "3. Link di terze parti",
+        "content": "Questo sito può contenere link a siti di terze parti (es. Google Maps). Non siamo responsabili per le pratiche sulla privacy di questi siti esterni. Ti invitiamo a leggere le dichiarazioni sulla privacy di ogni sito che raccoglie informazioni personali quando lasci il nostro sito."
+      },
+      {
+        "title": "4. Contattaci",
+        "content": "In caso di domande o dubbi sulla presente informativa sulla privacy, vi preghiamo di contattarci all'indirizzo: claritleonelmnicol@gmail.com"
+      }
+    ]
   },
   "terms": {
     "title": "Termini di Servizio",
-    "content": "Questo sito è un progetto indipendente di informazione turistica. I contenuti sono forniti a scopo informativo e potrebbero non essere sempre aggiornati. Le immagini provengono da Unsplash (licenza gratuita). Le recensioni sono estratte da fonti pubbliche. L'uso di questo sito implica l'accettazione di questi termini."
+    "content": "Questo sito è un progetto di informazione turistica indipendente. I contenuti sono forniti a scopo informativo e potrebbero non essere sempre aggiornati. Le immagini provengono da Unsplash (licenza gratuita). Le recensioni sono estratte da fonti pubbliche. L'uso di questo sito implica l'accettazione di questi termini.",
+    "sections": [
+      {
+        "title": "1. Accettazione dei termini",
+        "content": "Accedendo e utilizzando questo sito web, accetti di essere vincolato dai presenti Termini di servizio. Se non accetti una qualsiasi parte di questi termini, ti preghiamo di non utilizzare il nostro sito."
+      },
+      {
+        "title": "2. Uso del contenuto",
+        "content": "Le informazioni fornite su questo sito web sono solo a scopo informativo generale. Sebbene ci sforziamo di mantenere le informazioni accurate e aggiornate, non rilasciamo alcuna dichiarazione o garanzia di alcun tipo, espressa o implicita, in merito a completezza, accuratezza, affidabilità o idoneità delle informazioni."
+      },
+      {
+        "title": "3. Proprietà intellettuale",
+        "content": "Salvo diversa indicazione, tutti i contenuti di questo sito (inclusi testi, immagini, loghi) sono protetti da copyright. Nessuna riproduzione, distribuzione o uso commerciale è consentita senza esplicita autorizzazione. I crediti fotografici possono includere risorse esenti da royalty da piattaforme come Unsplash o contributori su Google Maps."
+      },
+      {
+        "title": "4. Limitazione di responsabilità",
+        "content": "Nella misura massima consentita dalla legge, questo sito e i suoi proprietari non saranno responsabili per eventuali danni diretti, indiretti, accidentali o consequenziali derivanti dall'uso o dall'impossibilità di utilizzare questo sito. Quando visiti siti naturali, dai sempre la priorità alla sicurezza."
+      }
+    ]
   },
   "cookieSettings": {
     "title": "Impostazioni Cookie",
-    "content": "Utilizziamo cookie tecnici necessari al funzionamento del sito e cookie analitici anonimizzati per comprendere l'utilizzo del sito. Puoi disattivare i cookie analitici nelle impostazioni del tuo browser. Per maggiori informazioni: claritleonelmnicol@gmail.com"
+    "content": "Utilizziamo cookie tecnici necessari per il funzionamento del sito e cookie analitici anonimizzati per comprendere l'utilizzo del sito. Puoi disabilitare i cookie analitici nelle impostazioni del tuo browser. Per maggiori informazioni: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "Cookie strettamente necessari",
+        "content": "Questi cookie sono necessari per il funzionamento del sito web e non possono essere disattivati nei nostri sistemi. Di solito vengono impostati solo in risposta ad azioni da te effettuate che costituiscono una richiesta di servizi, come l'impostazione delle preferenze sulla privacy o della lingua."
+      },
+      {
+        "title": "Cookie analitici",
+        "content": "Questi cookie ci consentono di contare le visite e le fonti di traffico in modo da poter misurare e migliorare le prestazioni del nostro sito. Ci aiutano a sapere quali sono le pagine più popolari e vedere come i visitatori si muovono all'interno del sito."
+      },
+      {
+        "title": "Cookie di marketing",
+        "content": "Questi cookie possono essere impostati tramite il nostro sito dai nostri partner pubblicitari. Possono essere utilizzati da tali società per costruire un profilo dei tuoi interessi e mostrarti annunci pertinenti su altri siti."
+      }
+    ]
   },
   "theme": {
     "light": "Modalità chiara",

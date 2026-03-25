@@ -40,6 +40,8 @@
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "Views of Piazza del Duomo di Trento",
+    "declaration": "Descriptions from Google Maps, recently updated in 2026. To view all photos, please click the link below",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramic view of the square with the Cathedral" },
       { "caption": "Neptune Fountain at sunset" },
@@ -48,7 +50,12 @@
       { "caption": "Evening atmosphere in the square" },
       { "caption": "Portal of the Cathedral of San Vigilio" },
       { "caption": "Christmas markets in Piazza Duomo" },
-      { "caption": "Aerial view of the medieval square" }
+      { "caption": "Aerial view of the medieval square" },
+      { "caption": "Square corner" },
+      { "caption": "Architectural details" },
+      { "caption": "Panoramic view 2" },
+      { "caption": "Fountain close-up" },
+      { "caption": "City street view" }
     ]
   },
   "reviews": {
@@ -163,15 +170,65 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "content": "This site collects minimal browsing data (technical cookies, anonymized analytics) to improve user experience. We do not collect personally identifiable data. We do not share data with third parties for commercial purposes. For privacy questions: claritleonelmnicol@gmail.com"
+    "content": "This site collects minimal browsing data (technical cookies, anonymized analytics) to improve user experience. We do not collect personally identifiable data. We do not share data with third parties for commercial purposes. For privacy questions: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "1. Information Collection",
+        "content": "We are committed to protecting your privacy. This site primarily serves as an information platform and generally does not actively collect personally identifiable information from users. However, through server logs and analytics tools, we may collect non-personally identifiable information such as browser type, access times, and page view records."
+      },
+      {
+        "title": "2. Use of Cookies",
+        "content": "To provide a better user experience and understand how the site is used, we may use cookies. These cookies are used to remember user preferences and analyze site traffic. You can adjust your cookie settings in your browser."
+      },
+      {
+        "title": "3. Third-Party Links",
+        "content": "This site may contain links to third-party sites (e.g., Google Maps). We are not responsible for the privacy practices of these external sites. We encourage you to read the privacy statements of each site that collects personal information when you leave our site."
+      },
+      {
+        "title": "4. Contact Us",
+        "content": "If you have any questions or concerns regarding this privacy policy, please contact us at: claritleonelmnicol@gmail.com"
+      }
+    ]
   },
   "terms": {
     "title": "Terms of Service",
-    "content": "This site is an independent tourism information project. Content is provided for informational purposes and may not always be up to date. Images come from Unsplash (free license). Reviews are extracted from public sources. Use of this site implies acceptance of these terms."
+    "content": "This site is an independent tourism information project. Content is provided for informational purposes and may not always be up to date. Images come from Unsplash (free license). Reviews are extracted from public sources. Use of this site implies acceptance of these terms.",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you do not agree to any part of these terms, please do not use our site."
+      },
+      {
+        "title": "2. Use of Content",
+        "content": "The information provided on this website is for general informational purposes only. While we strive to keep the information accurate and up to date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or suitability of the information."
+      },
+      {
+        "title": "3. Intellectual Property",
+        "content": "Unless otherwise indicated, all content on this site (including text, images, logos) is protected by copyright. No reproduction, distribution, or commercial use is allowed without explicit permission. Photo credits may include royalty-free resources from platforms like Unsplash or contributors on Google Maps."
+      },
+      {
+        "title": "4. Limitation of Liability",
+        "content": "To the fullest extent permitted by law, this site and its owners will not be liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this site. When visiting natural sites, always prioritize safety."
+      }
+    ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "content": "We use technical cookies necessary for the site to function and anonymized analytical cookies to understand site usage. You can disable analytical cookies in your browser settings. For more information: claritleonelmnicol@gmail.com"
+    "content": "We use technical cookies necessary for the site to function and anonymized analytical cookies to understand site usage. You can disable analytical cookies in your browser settings. For more information: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "Strictly Necessary Cookies",
+        "content": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences or language."
+      },
+      {
+        "title": "Analytics Cookies",
+        "content": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most popular and see how visitors move around the site."
+      },
+      {
+        "title": "Marketing Cookies",
+        "content": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites."
+      }
+    ]
   },
   "theme": {
     "light": "Light mode",

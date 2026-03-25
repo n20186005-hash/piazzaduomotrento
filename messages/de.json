@@ -39,16 +39,23 @@
   },
   "gallery": {
     "title": "Fotogalerie",
-    "subtitle": "Ansichten der Piazza del Duomo di Trento",
+    "subtitle": "Ansichten der Piazza del Duomo in Trient",
+    "declaration": "Beschreibungen von Google Maps, zuletzt aktualisiert 2026. Um alle Fotos zu sehen, klicken Sie auf den unten stehenden Link",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramablick auf den Platz mit der Kathedrale" },
       { "caption": "Neptunbrunnen bei Sonnenuntergang" },
-      { "caption": "Detail der Fresken an den Häusern Cazuffi-Rella" },
+      { "caption": "Detail der Fresken an den Cazuffi-Rella-Häusern" },
       { "caption": "Stadtturm und Palazzo Pretorio" },
       { "caption": "Abendstimmung auf dem Platz" },
       { "caption": "Portal der Kathedrale San Vigilio" },
       { "caption": "Weihnachtsmärkte auf der Piazza Duomo" },
-      { "caption": "Luftaufnahme des mittelalterlichen Platzes" }
+      { "caption": "Luftaufnahme des mittelalterlichen Platzes" },
+      { "caption": "Platzecke" },
+      { "caption": "Architektonische Details" },
+      { "caption": "Panoramablick 2" },
+      { "caption": "Brunnen aus der Nähe" },
+      { "caption": "Straßenansicht" }
     ]
   },
   "reviews": {
@@ -162,16 +169,66 @@
     "cookies": "Cookie-Einstellungen"
   },
   "privacy": {
-    "title": "Datenschutzerklärung",
-    "content": "Diese Seite erfasst minimale Browsing-Daten (technische Cookies, anonymisierte Analysen) zur Verbesserung der Benutzererfahrung. Wir erheben keine personenbezogenen Daten. Wir teilen keine Daten mit Dritten zu kommerziellen Zwecken. Für Datenschutzfragen: claritleonelmnicol@gmail.com"
+    "title": "Datenschutzrichtlinie",
+    "content": "Diese Website sammelt minimale Browserdaten (technische Cookies, anonymisierte Analysen), um die Benutzererfahrung zu verbessern. Wir sammeln keine persönlich identifizierbaren Daten. Wir geben keine Daten für kommerzielle Zwecke an Dritte weiter. Bei Fragen zum Datenschutz: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "1. Informationssammlung",
+        "content": "Wir verpflichten uns, Ihre Privatsphäre zu schützen. Diese Website dient hauptsächlich als Informationsplattform und sammelt im Allgemeinen nicht aktiv persönlich identifizierbare Informationen von Benutzern. Über Serverprotokolle und Analysetools können wir jedoch nicht persönlich identifizierbare Informationen wie Browsertyp, Zugriffszeiten und Seitenaufrufaufzeichnungen sammeln."
+      },
+      {
+        "title": "2. Verwendung von Cookies",
+        "content": "Um eine bessere Benutzererfahrung zu bieten und zu verstehen, wie die Website genutzt wird, verwenden wir möglicherweise Cookies. Diese Cookies werden verwendet, um Benutzerpräferenzen zu speichern und den Website-Traffic zu analysieren. Sie können Ihre Cookie-Einstellungen in Ihrem Browser anpassen."
+      },
+      {
+        "title": "3. Links von Drittanbietern",
+        "content": "Diese Website kann Links zu Websites von Drittanbietern (z. B. Google Maps) enthalten. Wir sind nicht verantwortlich für die Datenschutzpraktiken dieser externen Websites. Wir empfehlen Ihnen, die Datenschutzerklärungen jeder Website zu lesen, die persönliche Informationen sammelt, wenn Sie unsere Website verlassen."
+      },
+      {
+        "title": "4. Kontakt",
+        "content": "Wenn Sie Fragen oder Bedenken bezüglich dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter: claritleonelmnicol@gmail.com"
+      }
+    ]
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "content": "Diese Seite ist ein unabhängiges Tourismusinformationsprojekt. Inhalte dienen nur zu Informationszwecken und sind möglicherweise nicht immer aktuell. Bilder stammen von Unsplash (kostenlose Lizenz). Bewertungen stammen aus öffentlichen Quellen. Die Nutzung dieser Seite impliziert die Akzeptanz dieser Bedingungen."
+    "content": "Diese Website ist ein unabhängiges Tourismusinformationsprojekt. Der Inhalt dient nur zu Informationszwecken und ist möglicherweise nicht immer aktuell. Bilder stammen von Unsplash (kostenlose Lizenz). Bewertungen werden aus öffentlichen Quellen extrahiert. Die Nutzung dieser Website setzt die Akzeptanz dieser Bedingungen voraus.",
+    "sections": [
+      {
+        "title": "1. Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung dieser Website erklären Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie mit irgendeinem Teil dieser Bedingungen nicht einverstanden sind, nutzen Sie unsere Website bitte nicht."
+      },
+      {
+        "title": "2. Nutzung von Inhalten",
+        "content": "Die auf dieser Website bereitgestellten Informationen dienen nur allgemeinen Informationszwecken. Obwohl wir uns bemühen, die Informationen genau und aktuell zu halten, geben wir keine Zusicherungen oder Gewährleistungen jeglicher Art, ausdrücklich oder stillschweigend, über die Vollständigkeit, Genauigkeit, Zuverlässigkeit oder Eignung der Informationen."
+      },
+      {
+        "title": "3. Geistiges Eigentum",
+        "content": "Sofern nicht anders angegeben, sind alle Inhalte dieser Website (einschließlich Text, Bilder, Logos) urheberrechtlich geschützt. Ohne ausdrückliche Genehmigung ist keine Vervielfältigung, Verbreitung oder kommerzielle Nutzung gestattet. Bildnachweise können lizenzfreie Ressourcen von Plattformen wie Unsplash oder Mitwirkenden auf Google Maps enthalten."
+      },
+      {
+        "title": "4. Haftungsbeschränkung",
+        "content": "Soweit gesetzlich zulässig, haften diese Website und ihre Eigentümer nicht für direkte, indirekte, zufällige oder Folgeschäden, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung dieser Website ergeben. Bitte stellen Sie bei Besuchen in der Natur immer die Sicherheit an die erste Stelle."
+      }
+    ]
   },
   "cookieSettings": {
     "title": "Cookie-Einstellungen",
-    "content": "Wir verwenden technisch notwendige Cookies und anonymisierte Analyse-Cookies. Sie können Analyse-Cookies in Ihren Browsereinstellungen deaktivieren. Für weitere Informationen: claritleonelmnicol@gmail.com"
+    "content": "Wir verwenden technische Cookies, die für das Funktionieren der Website erforderlich sind, sowie anonymisierte analytische Cookies, um die Nutzung der Website zu verstehen. Sie können analytische Cookies in Ihren Browsereinstellungen deaktivieren. Für weitere Informationen: claritleonelmnicol@gmail.com",
+    "sections": [
+      {
+        "title": "Unbedingt notwendige Cookies",
+        "content": "Diese Cookies sind für die Funktion der Website erforderlich und können in unseren Systemen nicht deaktiviert werden. Sie werden normalerweise nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Anforderung von Diensten gleichkommen, wie z. B. das Festlegen Ihrer Datenschutzeinstellungen oder Ihrer Sprache."
+      },
+      {
+        "title": "Analyse-Cookies",
+        "content": "Mit diesen Cookies können wir Besuche und Verkehrsquellen zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie helfen uns zu wissen, welche Seiten am beliebtesten sind und zu sehen, wie sich Besucher auf der Website bewegen."
+      },
+      {
+        "title": "Marketing-Cookies",
+        "content": "Diese Cookies können von unseren Werbepartnern über unsere Website gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Werbung auf anderen Websites zu zeigen."
+      }
+    ]
   },
   "theme": {
     "light": "Hellmodus",
