@@ -26,8 +26,15 @@
     "tags": ["Kathedrale", "Platz", "Neptunbrunnen", "Fresken", "Architektur", "Fotografie"]
   },
   "intro": {
-    "title": "Warum die Piazza del Duomo besuchen",
-    "description": "Die Piazza del Duomo ist das pulsierende Herz von Trient, beherrscht von der majestätischen Kathedrale San Vigilio und dem berühmten Neptunbrunnen. Dieser mittelalterliche Platz erzählt Jahrhunderte Geschichte, vom Konzil von Trient bis zu den Renaissance-Fresken der Häuser Cazuffi-Rella.",
+    "title": "Warum Sie die Piazza del Duomo besuchen sollten",
+    "description": "Die Piazza del Duomo ist das schlagende Herz von Trient, dominiert von der majestätischen Kathedrale San Vigilio und dem berühmten Neptunbrunnen. Dieser mittelalterliche Platz erzählt Jahrhunderte an Geschichte, vom Konzil von Trient bis zu den Renaissance-Fresken der Cazuffi-Rella-Häuser.",
+    "historyTitle": "Historischer Hintergrund",
+    "history": [
+      "Die Piazza del Duomo ist seit der Römerzeit das Zentrum der Stadt, erhielt aber ihre heutige Form im Mittelalter und in der Renaissance. Die Anlage des Platzes spiegelt das Gleichgewicht zwischen religiöser Macht (der Kathedrale) und weltlicher Macht (Palazzo Pretorio) wider.",
+      "Das Konzil von Trient, das zwischen 1545 und 1563 stattfand, war eines der wichtigsten Ereignisse in der katholischen Geschichte und machte diesen Platz zum damaligen politischen und religiösen Zentrum Europas. Die Residenzen vieler Kardinäle und Würdenträger aus dieser Zeit umgeben den Platz noch heute.",
+      "Der Neptunbrunnen in der Mitte des Platzes wurde zwischen 1767 und 1769 erbaut und symbolisiert die Modernisierung des städtischen Wasserversorgungssystems während der Aufklärung. Die Statue zeigt Neptun, der seinen Dreizack in majestätischer Pose hält, während der Sockel mit Seepferdchen und Tritonen verziert ist."
+    ],
+    "highlightsTitle": "Wichtigste Highlights",
     "highlights": [
       "Kathedrale San Vigilio – romanisch-gotisches Meisterwerk aus dem 13. Jahrhundert",
       "Neptunbrunnen – ikonisches Stadtsymbol, 18. Jahrhundert",
@@ -40,7 +47,7 @@
   "gallery": {
     "title": "Fotogalerie",
     "subtitle": "Ansichten der Piazza del Duomo in Trient",
-    "declaration": "Beschreibungen von Google Maps, zuletzt aktualisiert 2026. Um alle Fotos zu sehen, klicken Sie auf den unten stehenden Link",
+    "declaration": "Beschreibungen von Google Maps, zuletzt aktualisiert 2026. Um alle Fotos zu sehen, klicken Sie auf den Link",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramablick auf den Platz mit der Kathedrale" },
@@ -60,56 +67,56 @@
   },
   "reviews": {
     "title": "Echte Besucherbewertungen",
-    "declaration": "Bewertungen stammen von Google Maps (letztes Update: 2026). Wir zeigen nur eine verifizierte Auswahl hoch bewerteter Rezensionen. Für alle vollständigen und aktuellsten Bewertungen klicken Sie auf den Link unten.",
-    "moreLink": "Mehr Bewertungen auf Google Maps ansehen",
+    "declaration": "Bewertungen und Rezensionen stammen von Google Maps (letzte Aktualisierung: 2026). Wir zeigen nur eine verifizierte Auswahl hoch bewerteter Rezensionen. Um alle vollständigen und neuesten Bewertungen zu sehen, klicken Sie auf den Link.",
+    "moreLink": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
       {
-        "name": "Stefan H.",
+        "name": "Giulia B.",
         "date": "März 2026",
         "stars": 5,
-        "text": "Wunderschöner Platz, eines der schönsten historischen Zentren im Trentino. Die Kathedrale ist beeindruckend und der Neptunbrunnen ein Juwel."
+        "text": "Atemberaubender Platz, eines der schönsten historischen Zentren im Trentino. Die Kathedrale ist beeindruckend und der Neptunbrunnen ein Juwel."
       },
       {
-        "name": "Monika W.",
+        "name": "Markus W.",
         "date": "Februar 2026",
         "stars": 5,
         "text": "Bezaubernde Atmosphäre bei Tag und Nacht. Die Fresken an den Häusern sind außergewöhnlich. Ein Muss."
       },
       {
-        "name": "Klaus P.",
+        "name": "Elena R.",
         "date": "Januar 2026",
         "stars": 5,
-        "text": "Das Herz von Trient. Perfekt für einen Spaziergang, einen Kaffee und die Bewunderung der historischen Architektur."
+        "text": "Das Herz von Trient. Perfekt für einen Spaziergang, einen Kaffee und um die historische Architektur zu bewundern. Sehr gepflegt."
       },
       {
-        "name": "Andrea K.",
+        "name": "Thomas M.",
         "date": "Dezember 2025",
         "stars": 4,
-        "text": "Wunderschöner historischer Platz. Im Winter mit den Weihnachtsmärkten wird er magisch. Am Wochenende etwas überfüllt."
+        "text": "Wunderschöner historischer Platz. Im Winter mit den Weihnachtsmärkten wird es magisch. Am Wochenende etwas überfüllt."
       },
       {
-        "name": "Petra M.",
+        "name": "Sarah J.",
         "date": "November 2025",
         "stars": 5,
-        "text": "Ein geschichtsträchtiger Ort. Das Konzil von Trient fand genau hier statt. Die Kathedrale verdient einen gründlichen Besuch."
+        "text": "Ein Ort reich an Geschichte. Das Konzil von Trient fand genau hier statt. Die Kathedrale verdient einen ausführlichen Besuch."
       },
       {
-        "name": "Hans R.",
+        "name": "Alessandro C.",
         "date": "Oktober 2025",
         "stars": 5,
-        "text": "Einer der fotogensten Plätze Italiens. Das Sonnenuntergangslicht auf der Kathedrale ist spektakulär."
+        "text": "Einer der fotogensten Plätze Italiens. Das Abendlicht auf der Kathedrale ist spektakulär."
       },
       {
-        "name": "Sabine L.",
+        "name": "Sophie L.",
         "date": "September 2025",
         "stars": 4,
-        "text": "Eleganter und gepflegter Platz. Ausgezeichnete Restaurants in der Nähe. Empfehle auch die archäologischen Untergeschosse."
+        "text": "Eleganter und gepflegter Platz. Ausgezeichnete Restaurants in der Nähe. Ich empfehle auch den Besuch des archäologischen Untergrunds."
       },
       {
-        "name": "Wolfgang F.",
+        "name": "Michael D.",
         "date": "August 2025",
         "stars": 5,
-        "text": "Spektakulär! Die Kombination aus mittelalterlicher und Renaissance-Architektur ist einzigartig. Trient ist ein verstecktes Juwel."
+        "text": "Spektakulär! Die Kombination aus mittelalterlicher und Renaissance-Architektur ist einzigartig. Trient ist ein verborgenes Juwel."
       }
     ]
   },

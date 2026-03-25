@@ -63,8 +63,8 @@ export default function Gallery() {
       
       <p className="section-declaration" style={{ marginBottom: "2rem" }}>
         {t("declaration")}{" "}
-        <a href={t("moreLink")} target="_blank" rel="noopener noreferrer" style={{ wordBreak: "break-all" }}>
-          {t("moreLink")}
+        <a href={t("moreLink")} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
+          →
         </a>
       </p>
 

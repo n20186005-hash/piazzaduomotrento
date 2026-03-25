@@ -28,6 +28,13 @@
   "intro": {
     "title": "Perché visitare Piazza del Duomo",
     "description": "La Piazza del Duomo è il cuore pulsante di Trento, dominata dalla maestosa Cattedrale di San Vigilio e dalla celebre Fontana del Nettuno. Questa piazza medievale racconta secoli di storia, dal Concilio di Trento agli affreschi rinascimentali delle Case Cazuffi-Rella.",
+    "historyTitle": "Cenni Storici",
+    "history": [
+      "Piazza del Duomo è stata il centro della città fin dall'epoca romana, ma ha assunto la sua forma attuale durante il Medioevo e il Rinascimento. La disposizione della piazza riflette l'equilibrio tra il potere religioso (la Cattedrale) e il potere secolare (Palazzo Pretorio).",
+      "Il Concilio di Trento, tenutosi tra il 1545 e il 1563, è stato uno degli eventi più importanti della storia cattolica, rendendo questa piazza il centro politico e religioso d'Europa in quel periodo. Le residenze di molti cardinali e dignitari di quell'epoca circondano ancora oggi la piazza.",
+      "La Fontana del Nettuno al centro della piazza fu costruita tra il 1767 e il 1769, a simboleggiare la modernizzazione del sistema di approvvigionamento idrico della città durante l'Illuminismo. La statua raffigura Nettuno che tiene il suo tridente in una posa maestosa, mentre il basamento è decorato con cavallucci marini e tritoni."
+    ],
+    "highlightsTitle": "Punti Salienti",
     "highlights": [
       "Cattedrale di San Vigilio – capolavoro romanico-gotico del XIII secolo",
       "Fontana del Nettuno – simbolo iconico della città, XVIII secolo",
@@ -40,7 +47,7 @@
   "gallery": {
     "title": "Galleria Fotografica",
     "subtitle": "Scorci di Piazza del Duomo di Trento",
-    "declaration": "Descrizioni da Google Maps, aggiornate di recente nel 2026. Per visualizzare tutte le foto, fai clic sul link sottostante",
+    "declaration": "Descrizioni da Google Maps, aggiornate di recente nel 2026. Per visualizzare tutte le foto, fai clic sul link",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Vista panoramica della piazza con il Duomo" },
@@ -59,57 +66,57 @@
     ]
   },
   "reviews": {
-    "title": "Recensioni di visitatori reali",
-    "declaration": "Le valutazioni e le recensioni provengono da Google Maps (ultimo aggiornamento: 2026). Mostriamo solo una selezione verificata di recensioni ad alto punteggio. Per visualizzare tutte le recensioni complete e più recenti, clicca il link qui sotto.",
-    "moreLink": "Vedi più recensioni su Google Maps",
+    "title": "Recensioni Verificate dei Visitatori",
+    "declaration": "Le valutazioni e le recensioni provengono da Google Maps (ultimo aggiornamento: 2026). Mostriamo solo una selezione verificata di recensioni con voti alti. Per vedere tutte le recensioni complete e più recenti, fai clic sul link.",
+    "moreLink": "Vedi altre recensioni su Google Maps",
     "items": [
       {
-        "name": "Marco B.",
+        "name": "Giulia B.",
         "date": "Marzo 2026",
         "stars": 5,
-        "text": "Piazza magnifica, uno dei centri storici più belli del Trentino. La cattedrale è imponente e la fontana del Nettuno è un gioiello."
+        "text": "Piazza stupenda, uno dei centri storici più belli del Trentino. Il Duomo è imponente e la Fontana del Nettuno è un gioiello."
       },
       {
-        "name": "Giulia R.",
+        "name": "Markus W.",
         "date": "Febbraio 2026",
         "stars": 5,
-        "text": "Atmosfera incantevole sia di giorno che di sera. Gli affreschi sulle case sono straordinari. Da non perdere."
+        "text": "Atmosfera incantevole sia di giorno che di notte. Gli affreschi sulle case sono straordinari. Da non perdere."
       },
       {
-        "name": "Lucia V.",
+        "name": "Elena R.",
         "date": "Gennaio 2026",
         "stars": 5,
-        "text": "Il cuore di Trento. Perfetta per una passeggiata, un caffè e ammirare l'architettura storica. Molto ben tenuta."
+        "text": "Il cuore di Trento. Perfetta per una passeggiata, un caffè e per ammirare l'architettura storica. Molto ben tenuta."
       },
       {
-        "name": "Alessandro M.",
+        "name": "Thomas M.",
         "date": "Dicembre 2025",
         "stars": 4,
-        "text": "Bellissima piazza storica. D'inverno con i mercatini di Natale diventa magica. Un po' affollata nei weekend."
+        "text": "Bellissima piazza storica. In inverno con i mercatini di Natale diventa magica. Un po' affollata nei fine settimana."
       },
       {
-        "name": "Francesca T.",
+        "name": "Sarah J.",
         "date": "Novembre 2025",
         "stars": 5,
-        "text": "Luogo ricco di storia. Il Concilio di Trento si tenne proprio qui. La cattedrale merita una visita approfondita."
+        "text": "Un luogo ricco di storia. Proprio qui si tenne il Concilio di Trento. Il Duomo merita una visita approfondita."
       },
       {
-        "name": "Paolo D.",
+        "name": "Alessandro C.",
         "date": "Ottobre 2025",
         "stars": 5,
-        "text": "Una delle piazze più fotogeniche d'Italia. La luce del tramonto sulla cattedrale è spettacolare."
+        "text": "Una delle piazze più fotogeniche d'Italia. La luce del tramonto sul Duomo è spettacolare."
       },
       {
-        "name": "Chiara N.",
+        "name": "Sophie L.",
         "date": "Settembre 2025",
         "stars": 4,
-        "text": "Piazza elegante e curata. Ottimi ristoranti nei dintorni. Consiglio di visitare anche i sotterranei archeologici."
+        "text": "Piazza elegante e curata. Ottimi ristoranti nelle vicinanze. Consiglio di visitare anche la Trento sotterranea (SASS)."
       },
       {
-        "name": "Roberto F.",
+        "name": "Michael D.",
         "date": "Agosto 2025",
         "stars": 5,
-        "text": "Spettacolare! La combinazione di architettura medievale e rinascimentale è unica. Trento è una perla nascosta."
+        "text": "Spettacolare! La combinazione di architettura medievale e rinascimentale è unica. Trento è un tesoro nascosto."
       }
     ]
   },

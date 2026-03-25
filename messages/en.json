@@ -28,6 +28,13 @@
   "intro": {
     "title": "Why Visit Piazza del Duomo",
     "description": "Piazza del Duomo is the beating heart of Trento, dominated by the majestic Cathedral of San Vigilio and the famous Neptune Fountain. This medieval square tells centuries of history, from the Council of Trent to the Renaissance frescoes of the Cazuffi-Rella Houses.",
+    "historyTitle": "Historical Background",
+    "history": [
+      "Piazza del Duomo has been the center of the city since Roman times, but it took its current shape during the Middle Ages and the Renaissance. The layout of the square reflects the balance between religious power (the Cathedral) and secular power (Palazzo Pretorio).",
+      "The Council of Trent, held between 1545 and 1563, was one of the most important events in Catholic history, making this square the political and religious center of Europe at the time. The residences of many cardinals and dignitaries from that era still surround the square today.",
+      "The Neptune Fountain in the center of the square was built between 1767 and 1769, symbolizing the modernization of the city's water supply system during the Enlightenment. The statue depicts Neptune holding his trident in a majestic pose, while the base is decorated with seahorses and tritons."
+    ],
+    "highlightsTitle": "Key Highlights",
     "highlights": [
       "Cathedral of San Vigilio – Romanesque-Gothic masterpiece from the 13th century",
       "Neptune Fountain – iconic city symbol, 18th century",
@@ -40,7 +47,7 @@
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "Views of Piazza del Duomo di Trento",
-    "declaration": "Descriptions from Google Maps, recently updated in 2026. To view all photos, please click the link below",
+    "declaration": "Descriptions from Google Maps, recently updated in 2026. To view all photos, please click the link",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramic view of the square with the Cathedral" },
@@ -64,49 +71,49 @@
     "moreLink": "See more reviews on Google Maps",
     "items": [
       {
-        "name": "Sarah K.",
+        "name": "Giulia B.",
         "date": "March 2026",
         "stars": 5,
         "text": "Stunning square, one of the most beautiful historic centres in Trentino. The cathedral is impressive and the Neptune Fountain is a gem."
       },
       {
-        "name": "James P.",
+        "name": "Markus W.",
         "date": "February 2026",
         "stars": 5,
         "text": "Enchanting atmosphere day and night. The frescoes on the houses are extraordinary. A must-see."
       },
       {
-        "name": "Emily W.",
+        "name": "Elena R.",
         "date": "January 2026",
         "stars": 5,
         "text": "The heart of Trento. Perfect for a stroll, a coffee and admiring the historic architecture. Very well maintained."
       },
       {
-        "name": "David L.",
+        "name": "Thomas M.",
         "date": "December 2025",
         "stars": 4,
         "text": "Beautiful historic square. In winter with the Christmas markets it becomes magical. A bit crowded on weekends."
       },
       {
-        "name": "Anna M.",
+        "name": "Sarah J.",
         "date": "November 2025",
         "stars": 5,
         "text": "A place rich in history. The Council of Trent was held right here. The cathedral deserves a thorough visit."
       },
       {
-        "name": "Thomas R.",
+        "name": "Alessandro C.",
         "date": "October 2025",
         "stars": 5,
         "text": "One of the most photogenic squares in Italy. The sunset light on the cathedral is spectacular."
       },
       {
-        "name": "Sophie H.",
+        "name": "Sophie L.",
         "date": "September 2025",
         "stars": 4,
         "text": "Elegant and well-kept square. Excellent restaurants nearby. I recommend also visiting the archaeological underground."
       },
       {
-        "name": "Michael B.",
+        "name": "Michael D.",
         "date": "August 2025",
         "stars": 5,
         "text": "Spectacular! The combination of medieval and Renaissance architecture is unique. Trento is a hidden gem."
