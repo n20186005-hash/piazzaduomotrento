@@ -68,8 +68,9 @@
   },
   "reviews": {
     "title": "真實遊客評價",
-    "declaration": "評分和評價來自 Google 地圖（最後更新：2026年）。我們僅展示經過驗證的精選高分評價。如需查看所有完整和最新評價，請點擊下方連結。",
-    "moreLink": "在 Google 地圖上查看更多評價",
+    "declaration": "評分和評價來自 Google 地圖（最後更新：2026年）。我們僅展示經過驗證的精選高分評價。如需查看所有完整和最新評價，請點擊連結",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
+    "moreText": "在 Google 地圖上查看更多評價",
     "items": [
       {
         "name": "Giulia B.",

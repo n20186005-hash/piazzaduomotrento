@@ -21,7 +21,12 @@ export default function Reviews() {
   return (
     <section className="section" id="reviews">
       <h2 className="section-title">{t("title")}</h2>
-      <p className="section-declaration">{t("declaration")}</p>
+      <p className="section-declaration">
+        {t("declaration")}{" "}
+        <a href={t("moreLink")} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
+          →
+        </a>
+      </p>
       <div className="reviews-grid">
         {items.map((review, i) => (
           <article key={i} className="review-card">
@@ -39,12 +44,12 @@ export default function Reviews() {
       </div>
       <div className="reviews-more">
         <a
-          href="https://maps.app.goo.gl/Q5HFzcgdtQLVFm1j9"
+          href={t("moreLink")}
           target="_blank"
           rel="noopener noreferrer"
           className="more-link"
         >
-          {t("moreLink")} →
+          {t("moreText")} →
         </a>
       </div>
     </section>
