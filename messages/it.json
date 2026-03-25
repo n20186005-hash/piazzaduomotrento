@@ -27,12 +27,13 @@
   },
   "intro": {
     "title": "Perché visitare Piazza del Duomo",
-    "description": "La Piazza del Duomo è il cuore pulsante di Trento, dominata dalla maestosa Cattedrale di San Vigilio e dalla celebre Fontana del Nettuno. Questa piazza medievale racconta secoli di storia, dal Concilio di Trento agli affreschi rinascimentali delle Case Cazuffi-Rella.",
-    "historyTitle": "Cenni Storici",
+    "description": "La Piazza del Duomo è il cuore pulsante di Trento, dominata dalla maestosa Cattedrale di San Vigilio e dalla celebre Fontana del Nettuno. Questa piazza medievale racconta secoli di storia, dal Concilio di Trento agli affreschi rinascimentali delle Case Cazuffi-Rella. È un luogo in cui architettura medievale e rinascimentale si fondono in perfetta armonia.",
+    "historyTitle": "Cenni Storici e Architettonici",
     "history": [
-      "Piazza del Duomo è stata il centro della città fin dall'epoca romana, ma ha assunto la sua forma attuale durante il Medioevo e il Rinascimento. La disposizione della piazza riflette l'equilibrio tra il potere religioso (la Cattedrale) e il potere secolare (Palazzo Pretorio).",
-      "Il Concilio di Trento, tenutosi tra il 1545 e il 1563, è stato uno degli eventi più importanti della storia cattolica, rendendo questa piazza il centro politico e religioso d'Europa in quel periodo. Le residenze di molti cardinali e dignitari di quell'epoca circondano ancora oggi la piazza.",
-      "La Fontana del Nettuno al centro della piazza fu costruita tra il 1767 e il 1769, a simboleggiare la modernizzazione del sistema di approvvigionamento idrico della città durante l'Illuminismo. La statua raffigura Nettuno che tiene il suo tridente in una posa maestosa, mentre il basamento è decorato con cavallucci marini e tritoni."
+      "Piazza del Duomo è stata il centro della città fin dall'epoca romana. L'attuale Cattedrale di San Vigilio (Duomo di Trento) fu fatta costruire in stile romanico-gotico nei primi anni del secolo XIII (1212) dal Principe Vescovo Federico Vanga sull'area di una preesistente basilica paleocristiana. Il suo fianco settentrionale verso la piazza è caratterizzato da una maestosa sequenza di gallerie e da un protiro con leoni stilofori.",
+      "Tra il 1545 e il 1563, il Concilio di Trento si tenne proprio qui. Le solenni sessioni cattoliche si svolsero effettivamente nel presbiterio della cattedrale su una specifica struttura mobile in legno costruita sopra la sua cripta sotterranea. In quel periodo, la piazza divenne il fulcro politico e religioso dell'Europa.",
+      "Sul lato orientale della piazza si erge Palazzo Pretorio, che fu l'effettiva residenza dei principi-vescovi nel Medioevo. La sua adiacente Torre Civica è simbolo del potere temporale. Entrambi gli edifici sono integrati con il Duomo e oggi ospitano il Museo Diocesano Tridentino, che custodisce il Tesoro del Duomo e le memorie del Concilio.",
+      "La Fontana del Nettuno fu aggiunta al centro della piazza tra il 1767 e il 1769. Con la sua connotazione barocca, costituisce un elemento di arredo urbano fortemente scenografico che simboleggiava la modernizzazione del sistema idrico cittadino durante l'Illuminismo. La statua di Nettuno con il tridente si erge su un basamento decorato da cavallucci marini e tritoni."
     ],
     "highlightsTitle": "Punti Salienti",
     "highlights": [
@@ -68,7 +69,7 @@
   "reviews": {
     "title": "Recensioni Verificate dei Visitatori",
     "declaration": "Le valutazioni e le recensioni provengono da Google Maps (ultimo aggiornamento: 2026). Mostriamo solo una selezione verificata di recensioni con voti alti. Per vedere tutte le recensioni complete e più recenti, fai clic sul link.",
-    "moreLink": "Vedi altre recensioni su Google Maps",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "items": [
       {
         "name": "Giulia B.",
@@ -77,7 +78,7 @@
         "text": "Piazza stupenda, uno dei centri storici più belli del Trentino. Il Duomo è imponente e la Fontana del Nettuno è un gioiello."
       },
       {
-        "name": "Markus W.",
+        "name": "Photographer",
         "date": "Febbraio 2026",
         "stars": 5,
         "text": "Atmosfera incantevole sia di giorno che di notte. Gli affreschi sulle case sono straordinari. Da non perdere."
@@ -89,7 +90,7 @@
         "text": "Il cuore di Trento. Perfetta per una passeggiata, un caffè e per ammirare l'architettura storica. Molto ben tenuta."
       },
       {
-        "name": "Thomas M.",
+        "name": "Tourist",
         "date": "Dicembre 2025",
         "stars": 4,
         "text": "Bellissima piazza storica. In inverno con i mercatini di Natale diventa magica. Un po' affollata nei fine settimana."
@@ -101,7 +102,7 @@
         "text": "Un luogo ricco di storia. Proprio qui si tenne il Concilio di Trento. Il Duomo merita una visita approfondita."
       },
       {
-        "name": "Alessandro C.",
+        "name": "Local Guide",
         "date": "Ottobre 2025",
         "stars": 5,
         "text": "Una delle piazze più fotogeniche d'Italia. La luce del tramonto sul Duomo è spettacolare."
@@ -113,7 +114,7 @@
         "text": "Piazza elegante e curata. Ottimi ristoranti nelle vicinanze. Consiglio di visitare anche la Trento sotterranea (SASS)."
       },
       {
-        "name": "Michael D.",
+        "name": "History Enthusiast",
         "date": "Agosto 2025",
         "stars": 5,
         "text": "Spettacolare! La combinazione di architettura medievale e rinascimentale è unica. Trento è un tesoro nascosto."

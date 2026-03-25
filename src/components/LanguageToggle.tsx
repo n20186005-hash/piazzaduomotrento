@@ -28,13 +28,19 @@ export default function LanguageToggle() {
   function switchLocale(newLocale: string) {
     const segments = pathname.split("/").filter(Boolean);
     const currentLocales = ["it", "en", "de", "zh-Hant"];
+    
+    // Remove the current locale from the URL if it exists
     if (currentLocales.includes(segments[0])) {
-      segments[0] = newLocale === "it" ? "" : newLocale;
-    } else {
-      segments.unshift(newLocale === "it" ? "" : newLocale);
+      segments.shift();
     }
-    const newPath = "/" + segments.filter(Boolean).join("/");
-    router.push(newPath);
+    
+    // Add the new locale, unless it's the default 'it'
+    if (newLocale !== "it") {
+      segments.unshift(newLocale);
+    }
+    
+    const newPath = "/" + segments.join("/");
+    router.push(newPath || "/");
     setOpen(false);
   }
 

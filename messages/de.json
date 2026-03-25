@@ -27,12 +27,13 @@
   },
   "intro": {
     "title": "Warum Sie die Piazza del Duomo besuchen sollten",
-    "description": "Die Piazza del Duomo ist das schlagende Herz von Trient, dominiert von der majestätischen Kathedrale San Vigilio und dem berühmten Neptunbrunnen. Dieser mittelalterliche Platz erzählt Jahrhunderte an Geschichte, vom Konzil von Trient bis zu den Renaissance-Fresken der Cazuffi-Rella-Häuser.",
-    "historyTitle": "Historischer Hintergrund",
+    "description": "Die Piazza del Duomo ist das schlagende Herz von Trient, dominiert von der majestätischen Kathedrale San Vigilio und dem berühmten Neptunbrunnen. Dieser mittelalterliche Platz erzählt Jahrhunderte an Geschichte, vom Konzil von Trient bis zu den Renaissance-Fresken der Cazuffi-Rella-Häuser. Es ist ein Ort, an dem mittelalterliche und Renaissance-Architektur perfekt miteinander verschmelzen.",
+    "historyTitle": "Historischer und architektonischer Hintergrund",
     "history": [
-      "Die Piazza del Duomo ist seit der Römerzeit das Zentrum der Stadt, erhielt aber ihre heutige Form im Mittelalter und in der Renaissance. Die Anlage des Platzes spiegelt das Gleichgewicht zwischen religiöser Macht (der Kathedrale) und weltlicher Macht (Palazzo Pretorio) wider.",
-      "Das Konzil von Trient, das zwischen 1545 und 1563 stattfand, war eines der wichtigsten Ereignisse in der katholischen Geschichte und machte diesen Platz zum damaligen politischen und religiösen Zentrum Europas. Die Residenzen vieler Kardinäle und Würdenträger aus dieser Zeit umgeben den Platz noch heute.",
-      "Der Neptunbrunnen in der Mitte des Platzes wurde zwischen 1767 und 1769 erbaut und symbolisiert die Modernisierung des städtischen Wasserversorgungssystems während der Aufklärung. Die Statue zeigt Neptun, der seinen Dreizack in majestätischer Pose hält, während der Sockel mit Seepferdchen und Tritonen verziert ist."
+      "Die Piazza del Duomo ist seit der Römerzeit das Zentrum der Stadt. Die heutige Kathedrale San Vigilio (Duomo di Trento) wurde im 13. Jahrhundert von Fürstbischof Federico Vanga über einer frühchristlichen Basilika erbaut. Sie ist eine perfekte Mischung aus romanischem und gotischem Stil. Ihre dem Platz zugewandte Nordflanke besticht durch eine elegante Abfolge von Galerien und ein von Steinlöwen bewachtes Portal.",
+      "Zwischen 1545 und 1563 fand hier das Konzil von Trient statt, ein Wendepunkt in der katholischen Geschichte. Die feierlichen Sitzungen wurden tatsächlich im Presbyterium der Kathedrale auf einer speziellen beweglichen Holzkonstruktion über der unterirdischen Krypta abgehalten. In dieser Zeit wurde der Platz zum politischen und religiösen Zentrum Europas.",
+      "Auf der Ostseite des Platzes steht der Palazzo Pretorio, der im Mittelalter als Residenz der Fürstbischöfe diente. Der angrenzende Stadtturm (Torre Civica) ist ein Symbol weltlicher Macht. Beide Gebäude sind mit der Kathedrale verbunden und beherbergen heute das Diözesanmuseum von Trient, in dem die Schätze des Konzils aufbewahrt werden.",
+      "Der Neptunbrunnen wurde zwischen 1767 und 1769 in der Mitte des Platzes errichtet. Dieses barocke Meisterwerk symbolisierte nicht nur die Modernisierung des städtischen Wasserversorgungssystems während der Aufklärung, sondern verlieh dem Platz mit seiner von Seepferdchen und Tritonen getragenen Statue des Neptun mit Dreizack auch ein äußerst malerisches Element."
     ],
     "highlightsTitle": "Wichtigste Highlights",
     "highlights": [
@@ -68,7 +69,7 @@
   "reviews": {
     "title": "Echte Besucherbewertungen",
     "declaration": "Bewertungen und Rezensionen stammen von Google Maps (letzte Aktualisierung: 2026). Wir zeigen nur eine verifizierte Auswahl hoch bewerteter Rezensionen. Um alle vollständigen und neuesten Bewertungen zu sehen, klicken Sie auf den Link.",
-    "moreLink": "Weitere Bewertungen auf Google Maps ansehen",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "items": [
       {
         "name": "Giulia B.",
@@ -77,7 +78,7 @@
         "text": "Atemberaubender Platz, eines der schönsten historischen Zentren im Trentino. Die Kathedrale ist beeindruckend und der Neptunbrunnen ein Juwel."
       },
       {
-        "name": "Markus W.",
+        "name": "Photographer",
         "date": "Februar 2026",
         "stars": 5,
         "text": "Bezaubernde Atmosphäre bei Tag und Nacht. Die Fresken an den Häusern sind außergewöhnlich. Ein Muss."
@@ -89,7 +90,7 @@
         "text": "Das Herz von Trient. Perfekt für einen Spaziergang, einen Kaffee und um die historische Architektur zu bewundern. Sehr gepflegt."
       },
       {
-        "name": "Thomas M.",
+        "name": "Tourist",
         "date": "Dezember 2025",
         "stars": 4,
         "text": "Wunderschöner historischer Platz. Im Winter mit den Weihnachtsmärkten wird es magisch. Am Wochenende etwas überfüllt."
@@ -101,7 +102,7 @@
         "text": "Ein Ort reich an Geschichte. Das Konzil von Trient fand genau hier statt. Die Kathedrale verdient einen ausführlichen Besuch."
       },
       {
-        "name": "Alessandro C.",
+        "name": "Local Guide",
         "date": "Oktober 2025",
         "stars": 5,
         "text": "Einer der fotogensten Plätze Italiens. Das Abendlicht auf der Kathedrale ist spektakulär."
@@ -113,7 +114,7 @@
         "text": "Eleganter und gepflegter Platz. Ausgezeichnete Restaurants in der Nähe. Ich empfehle auch den Besuch des archäologischen Untergrunds."
       },
       {
-        "name": "Michael D.",
+        "name": "History Enthusiast",
         "date": "August 2025",
         "stars": 5,
         "text": "Spektakulär! Die Kombination aus mittelalterlicher und Renaissance-Architektur ist einzigartig. Trient ist ein verborgenes Juwel."

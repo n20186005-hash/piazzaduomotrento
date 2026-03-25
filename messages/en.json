@@ -27,12 +27,13 @@
   },
   "intro": {
     "title": "Why Visit Piazza del Duomo",
-    "description": "Piazza del Duomo is the beating heart of Trento, dominated by the majestic Cathedral of San Vigilio and the famous Neptune Fountain. This medieval square tells centuries of history, from the Council of Trent to the Renaissance frescoes of the Cazuffi-Rella Houses.",
-    "historyTitle": "Historical Background",
+    "description": "Piazza del Duomo is the beating heart of Trento, dominated by the majestic Cathedral of San Vigilio and the famous Neptune Fountain. This medieval square tells centuries of history, from the Council of Trent to the Renaissance frescoes of the Cazuffi-Rella Houses. It is a place where medieval and Renaissance architecture blend perfectly.",
+    "historyTitle": "Historical and Architectural Background",
     "history": [
-      "Piazza del Duomo has been the center of the city since Roman times, but it took its current shape during the Middle Ages and the Renaissance. The layout of the square reflects the balance between religious power (the Cathedral) and secular power (Palazzo Pretorio).",
-      "The Council of Trent, held between 1545 and 1563, was one of the most important events in Catholic history, making this square the political and religious center of Europe at the time. The residences of many cardinals and dignitaries from that era still surround the square today.",
-      "The Neptune Fountain in the center of the square was built between 1767 and 1769, symbolizing the modernization of the city's water supply system during the Enlightenment. The statue depicts Neptune holding his trident in a majestic pose, while the base is decorated with seahorses and tritons."
+      "Piazza del Duomo has been the center of the city since Roman times. The current Cathedral of San Vigilio (Duomo di Trento) was built in the 13th century by Prince-Bishop Federico Vanga over a pre-existing early Christian basilica. It perfectly blends Romanesque and Gothic styles. Its northern flank facing the square features an elegant sequence of galleries and a portal guarded by stone lions.",
+      "Between 1545 and 1563, the Council of Trent was held here, marking a turning point in Catholic history. The solemn sessions were actually held in the cathedral's presbytery on a specific movable timber structure built over its underground crypt. During this time, the square became the political and religious hub of Europe.",
+      "On the eastern side of the square stands Palazzo Pretorio, which served as the residence of the Prince-Bishops in the Middle Ages. Its adjoining Civic Tower is a symbol of secular power. Both structures are integrated with the Cathedral and now house the Diocesan Museum of Trentino, preserving the treasures of the Council.",
+      "The Neptune Fountain was added to the center of the square between 1767 and 1769. This Baroque masterpiece not only symbolized the modernization of the city's water supply system during the Enlightenment, but its statue of Neptune holding a trident, supported by seahorses and tritons, also added a highly scenic element to the square."
     ],
     "highlightsTitle": "Key Highlights",
     "highlights": [
@@ -67,8 +68,8 @@
   },
   "reviews": {
     "title": "Real Visitor Reviews",
-    "declaration": "Ratings and reviews come from Google Maps (last updated: 2026). We only show a verified selection of highly-rated reviews. To see all complete and most recent reviews, click the link below.",
-    "moreLink": "See more reviews on Google Maps",
+    "declaration": "Ratings and reviews come from Google Maps (last updated: 2026). We only show a verified selection of highly-rated reviews. To see all complete and most recent reviews, please click the link",
+    "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "items": [
       {
         "name": "Giulia B.",
@@ -77,7 +78,7 @@
         "text": "Stunning square, one of the most beautiful historic centres in Trentino. The cathedral is impressive and the Neptune Fountain is a gem."
       },
       {
-        "name": "Markus W.",
+        "name": "Photographer",
         "date": "February 2026",
         "stars": 5,
         "text": "Enchanting atmosphere day and night. The frescoes on the houses are extraordinary. A must-see."
@@ -89,7 +90,7 @@
         "text": "The heart of Trento. Perfect for a stroll, a coffee and admiring the historic architecture. Very well maintained."
       },
       {
-        "name": "Thomas M.",
+        "name": "Tourist",
         "date": "December 2025",
         "stars": 4,
         "text": "Beautiful historic square. In winter with the Christmas markets it becomes magical. A bit crowded on weekends."
@@ -101,7 +102,7 @@
         "text": "A place rich in history. The Council of Trent was held right here. The cathedral deserves a thorough visit."
       },
       {
-        "name": "Alessandro C.",
+        "name": "Local Guide",
         "date": "October 2025",
         "stars": 5,
         "text": "One of the most photogenic squares in Italy. The sunset light on the cathedral is spectacular."
@@ -113,7 +114,7 @@
         "text": "Elegant and well-kept square. Excellent restaurants nearby. I recommend also visiting the archaeological underground."
       },
       {
-        "name": "Michael D.",
+        "name": "History Enthusiast",
         "date": "August 2025",
         "stars": 5,
         "text": "Spectacular! The combination of medieval and Renaissance architecture is unique. Trento is a hidden gem."
