@@ -19,9 +19,23 @@ export async function generateMetadata({
   params: { locale: string };
 }): Promise<Metadata> {
   const t = await getTranslations({ locale, namespace: "meta" });
+  
+  const baseUrl = "https://piazzaduomotrento.com";
+  const path = locale === "it" ? "" : `/${locale}`;
+  
   return {
     title: t("title"),
     description: t("description"),
+    alternates: {
+      canonical: `${baseUrl}${path}`,
+      languages: {
+        "it": `${baseUrl}/`,
+        "en": `${baseUrl}/en`,
+        "de": `${baseUrl}/de`,
+        "zh-Hant": `${baseUrl}/zh-Hant`,
+        "x-default": `${baseUrl}/`,
+      },
+    },
   };
 }
 
@@ -46,11 +60,6 @@ export default async function LocaleLayout({
   return (
     <html lang={langMap[locale] || locale} suppressHydrationWarning>
       <head>
-        <link rel="alternate" hrefLang="it" href="https://piazzaduomotrento.com/" />
-        <link rel="alternate" hrefLang="en" href="https://piazzaduomotrento.com/en" />
-        <link rel="alternate" hrefLang="de" href="https://piazzaduomotrento.com/de" />
-        <link rel="alternate" hrefLang="zh-Hant" href="https://piazzaduomotrento.com/zh-Hant" />
-        <link rel="alternate" hrefLang="x-default" href="https://piazzaduomotrento.com/" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

@@ -1,6 +1,29 @@
 import { unstable_setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import Footer from "@/components/Footer";
+import { getTranslations } from "next-intl/server";
+import { Metadata } from "next";
+
+export async function generateMetadata({ params: { locale } }: { params: { locale: string } }): Promise<Metadata> {
+  const t = await getTranslations({ locale, namespace: "cookieSettings" });
+  const baseUrl = "https://piazzaduomotrento.com";
+  const pathPrefix = locale === "it" ? "" : `/${locale}`;
+  const currentPath = `${pathPrefix}/cookie-settings`;
+
+  return {
+    title: `${t("title")} | Piazza del Duomo di Trento`,
+    alternates: {
+      canonical: `${baseUrl}${currentPath}`,
+      languages: {
+        "it": `${baseUrl}/cookie-settings`,
+        "en": `${baseUrl}/en/cookie-settings`,
+        "de": `${baseUrl}/de/cookie-settings`,
+        "zh-Hant": `${baseUrl}/zh-Hant/cookie-settings`,
+        "x-default": `${baseUrl}/cookie-settings`,
+      },
+    },
+  };
+}
 
 export default function CookieSettings({ params: { locale } }: { params: { locale: string } }) {
   unstable_setRequestLocale(locale);
