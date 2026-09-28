@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function NotFound() {
   return (
     <html lang="en">
@@ -5,7 +7,7 @@ export default function NotFound() {
         <div style={{ textAlign: "center" }}>
           <h1 style={{ fontSize: "4rem", fontWeight: 700, marginBottom: "0.5rem" }}>404</h1>
           <p style={{ fontSize: "1.1rem", color: "#57534e", marginBottom: "1.5rem" }}>Page not found / Pagina non trovata</p>
-          <a href="/" style={{ color: "#b45309", textDecoration: "none", fontSize: "0.95rem" }}>← Back to home / Torna alla home</a>
+          <Link href="/" style={{ color: "#b45309", textDecoration: "none", fontSize: "0.95rem" }}>← Back to home / Torna alla home</Link>
         </div>
       </body>
     </html>

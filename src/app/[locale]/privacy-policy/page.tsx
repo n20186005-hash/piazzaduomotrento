@@ -1,7 +1,5 @@
-import { setRequestLocale } from "next-intl/server";
-import { useTranslations } from "next-intl";
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import Footer from "@/components/Footer";
-import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -29,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function PrivacyPolicy({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const t = useTranslations("privacy");
+  const t = await getTranslations("privacy");
   const sections = t.raw("sections") as { title: string; content: string }[];
   
   return (
