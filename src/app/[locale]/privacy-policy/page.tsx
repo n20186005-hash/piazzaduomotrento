@@ -1,10 +1,11 @@
-import { unstable_setRequestLocale } from "next-intl/server";
+import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import Footer from "@/components/Footer";
 import { getTranslations } from "next-intl/server";
 import { Metadata } from "next";
 
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "privacy" });
   const baseUrl = "https://piazzaduomotrento.com";
   const pathPrefix = locale === "it" ? "" : `/${locale}`;
@@ -25,8 +26,9 @@ export async function generateMetadata({ params: { locale } }: { params: { local
   };
 }
 
-export default function PrivacyPolicy({ params: { locale } }: { params: { locale: string } }) {
-  unstable_setRequestLocale(locale);
+export default async function PrivacyPolicy({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   const t = useTranslations("privacy");
   const sections = t.raw("sections") as { title: string; content: string }[];
   
