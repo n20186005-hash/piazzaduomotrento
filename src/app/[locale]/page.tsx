@@ -1,4 +1,4 @@
-import { unstable_setRequestLocale } from "next-intl/server";
+import { setRequestLocale } from "next-intl/server";
 import Hero from "@/components/Hero";
 import Intro from "@/components/Intro";
 import Gallery from "@/components/Gallery";
@@ -8,8 +8,9 @@ import MapEmbed from "@/components/MapEmbed";
 import Sources from "@/components/Sources";
 import Footer from "@/components/Footer";
 
-export default function Home({ params: { locale } }: { params: { locale: string } }) {
-  unstable_setRequestLocale(locale);
+export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
   return (
     <main>
       <Hero />
