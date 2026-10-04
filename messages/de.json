@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Piazza del Duomo di Trento – Besucherführer",
-    "description": "Unabhängiger Reiseführer zur Piazza del Duomo di Trento: Geschichte, Fotos, Bewertungen und praktische Tipps."
+    "title": "Piazza del Duomo Trient: Sehenswuerdigkeiten und Besuchsinfos",
+    "description": "Reisefuehrer zur Piazza del Duomo di Trento: Kathedrale San Vigilio, Neptunbrunnen, Geschichte, Karte und praktische Besuchstipps."
   },
   "nav": {
     "discover": "Entdecken",
@@ -17,10 +17,10 @@
   },
   "hero": {
     "title": "Piazza del Duomo di Trento",
-    "subtitle": "Das historische und kulturelle Herz von Trient",
-    "rating": "4,6/5",
-    "ratingCount": "(10.622 Bewertungen)",
-    "hours": "Di-So 9-17 Uhr, Mo & Mi Geschlossen",
+    "subtitle": "Kathedrale, Neptunbrunnen und Geschichte in der Altstadt von Trient",
+    "rating": "4,7/5",
+    "ratingCount": "(ueber 11.000 Google-Bewertungen)",
+    "hours": "Der Platz ist jederzeit zuganglich; fuer die Kathedrale gelten eigene Zeiten",
     "address": "Piazza del Duomo, 18, 38122 Trento TN, Italien",
     "openMaps": "Auf Google Maps öffnen",
     "tags": ["Kathedrale", "Platz", "Neptunbrunnen", "Fresken", "Architektur", "Fotografie"]
@@ -48,7 +48,7 @@
   "gallery": {
     "title": "Fotogalerie",
     "subtitle": "Ansichten der Piazza del Duomo in Trient",
-    "declaration": "Beschreibungen von Google Maps, zuletzt aktualisiert 2026. Um alle Fotos zu sehen, klicken Sie auf den Link",
+    "declaration": "Galerie auf dieser Website mit redaktionellen Bildtexten. Fuer aktuelle oeffentliche Fotos und Ortsdetails siehe Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramablick auf den Platz mit der Kathedrale" },
@@ -68,7 +68,7 @@
   },
   "reviews": {
     "title": "Echte Besucherbewertungen",
-    "declaration": "Bewertungen und Rezensionen stammen von Google Maps (letzte Aktualisierung: 2026). Wir zeigen nur eine verifizierte Auswahl hoch bewerteter Rezensionen. Um alle vollständigen und neuesten Bewertungen zu sehen, klicken Sie auf den Link.",
+    "declaration": "Google-Bewertung: 4,7/5 aus 11.353 Rezensionen (Oktober 2026). Hier zeigen wir eine redaktionelle Auswahl oeffentlicher Bewertungen; fuer das vollstaendige und aktuellste Profil siehe Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "moreText": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
@@ -165,9 +165,9 @@
     "title": "Daten & Quellen",
     "text": "Diese Seite ist ein unabhängiges Tourismusinformationsprojekt über Trient. Sie ist nicht mit der offiziellen Verwaltung des Platzes oder der Gemeinde Trient verbunden.",
     "items": [
-      "Bewertungen: Google Maps",
-      "Fotografien: Unsplash (kostenlose Lizenz)",
-      "Historische Informationen: öffentliche Quellen, Tourismusbüro Trentino, Wikipedia"
+      "Aktualisierte Google-Bewertung: 4,7/5 · 11.353 Rezensionen (Oktober 2026)",
+      "Ortsprofil, Karte und oeffentliche Rezensionen: Google Maps",
+      "Historische und touristische Informationen: oeffentliche Quellen, Dioezesanmuseum Trient, Visit Trentino"
     ]
   },
   "footer": {
@@ -201,7 +201,7 @@
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "content": "Diese Website ist ein unabhängiges Tourismusinformationsprojekt. Der Inhalt dient nur zu Informationszwecken und ist möglicherweise nicht immer aktuell. Bilder stammen von Unsplash (kostenlose Lizenz). Bewertungen werden aus öffentlichen Quellen extrahiert. Die Nutzung dieser Website setzt die Akzeptanz dieser Bedingungen voraus.",
+    "content": "Diese Website ist ein unabhaengiges Tourismusinformationsprojekt. Die Inhalte dienen Informationszwecken und koennen regelmaessig aktualisiert werden. Genannte Bewertungen verweisen auf oeffentliche Quellen; Bilder und Texte unterliegen, soweit anwendbar, den Rechten ihrer jeweiligen Inhaber. Die Nutzung der Website setzt die Akzeptanz dieser Bedingungen voraus.",
     "sections": [
       {
         "title": "1. Annahme der Bedingungen",
@@ -213,7 +213,7 @@
       },
       {
         "title": "3. Geistiges Eigentum",
-        "content": "Sofern nicht anders angegeben, sind alle Inhalte dieser Website (einschließlich Text, Bilder, Logos) urheberrechtlich geschützt. Ohne ausdrückliche Genehmigung ist keine Vervielfältigung, Verbreitung oder kommerzielle Nutzung gestattet. Bildnachweise können lizenzfreie Ressourcen von Plattformen wie Unsplash oder Mitwirkenden auf Google Maps enthalten."
+        "content": "Sofern nicht anders angegeben, sind alle Inhalte dieser Website (einschliesslich Texten, Bildern und Logos) urheberrechtlich geschuetzt. Ohne ausdrueckliche Genehmigung ist keine Vervielfaeltigung, Verbreitung oder kommerzielle Nutzung gestattet. Etwaige Rechte und Quellen Dritter verbleiben bei ihren jeweiligen Inhabern."
       },
       {
         "title": "4. Haftungsbeschränkung",

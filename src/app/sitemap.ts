@@ -1,3 +1,4 @@
+import { italianGuideSlugs } from '@/content/italianCityGuides'
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -24,6 +25,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: route === '' ? 'weekly' : 'monthly',
         priority: route === '' ? 1 : 0.8,
       })
+    })
+  })
+
+  italianGuideSlugs.forEach((slug) => {
+    sitemapEntries.push({
+      url: `${baseUrl}/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
     })
   })
 

@@ -23,10 +23,37 @@ export async function generateMetadata({
   
   const baseUrl = "https://piazzaduomotrento.com";
   const path = locale === "it" ? "" : `/${locale}`;
+  const imageUrl = `${baseUrl}/gallery/piazza-del-duomo-trento-hero.jpg`;
+  const ogLocaleMap: Record<string, string> = {
+    it: "it_IT",
+    en: "en_US",
+    de: "de_DE",
+    "zh-Hant": "zh_TW",
+  };
   
   return {
     title: t("title"),
     description: t("description"),
+    openGraph: {
+      title: t("title"),
+      description: t("description"),
+      url: `${baseUrl}${path}`,
+      siteName: "Piazza del Duomo di Trento",
+      locale: ogLocaleMap[locale] || locale,
+      type: "website",
+      images: [
+        {
+          url: imageUrl,
+          alt: "Piazza del Duomo di Trento",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+      images: [imageUrl],
+    },
     alternates: {
       canonical: `${baseUrl}${path}`,
       languages: {

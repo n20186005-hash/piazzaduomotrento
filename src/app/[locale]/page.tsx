@@ -7,17 +7,21 @@ import Comparison from "@/components/Comparison";
 import MapEmbed from "@/components/MapEmbed";
 import Sources from "@/components/Sources";
 import Footer from "@/components/Footer";
+import StructuredData from "@/components/StructuredData";
+import CityGuidesSection from "@/components/CityGuidesSection";
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
   return (
     <main>
+      <StructuredData />
       <Hero />
       <Intro />
       <Gallery />
       <Reviews />
       <Comparison />
+      <CityGuidesSection locale={locale} />
       <MapEmbed />
       <Sources />
       <Footer />

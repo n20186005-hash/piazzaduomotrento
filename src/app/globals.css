@@ -72,15 +72,6 @@ a:hover {
 }
 
 /* ============================================
-   Hidden Google Maps Attribution
-   ============================================ */
-/* Note: Hiding Google Maps attribution may violate Google's Terms of Service. */
-.gm-style-cc,
-.gmnoprint {
-  display: none !important;
-}
-
-/* ============================================
    Header
    ============================================ */
 .header {
@@ -555,6 +546,99 @@ a:hover {
   font-size: 0.9rem;
   color: var(--text-secondary);
   line-height: 1.7;
+}
+
+.guide-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+.guide-link-card {
+  padding: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+.guide-link-card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: var(--text);
+}
+
+.guide-link-card p {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.guide-link-kicker {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.guide-link-note {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.article-title {
+  max-width: 860px;
+}
+
+.article-intro {
+  max-width: 860px;
+}
+
+.article-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.article-chip {
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  background: var(--accent-light);
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.article-callout {
+  margin: 2rem 0 3rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  background: var(--bg-alt);
+  border-left: 4px solid var(--accent);
+  color: var(--text-secondary);
+}
+
+.article-section {
+  margin-top: 2rem;
+}
+
+.article-paragraph {
+  max-width: 860px;
+}
+
+.article-bullets {
+  max-width: 860px;
+  margin-top: 1rem;
+}
+
+.faq-list {
+  display: grid;
+  gap: 1rem;
 }
 
 .nearby-grid {

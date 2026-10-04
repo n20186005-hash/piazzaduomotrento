@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Piazza del Duomo di Trento – Guida del Visitatore",
-    "description": "Guida indipendente alla Piazza del Duomo di Trento: storia, foto, recensioni e consigli pratici."
+    "title": "Piazza del Duomo Trento: cosa vedere e guida alla visita",
+    "description": "Guida alla Piazza del Duomo di Trento: Duomo di San Vigilio, Fontana del Nettuno, storia, mappa e consigli pratici per la visita."
   },
   "nav": {
     "discover": "Scopri",
@@ -17,10 +17,10 @@
   },
   "hero": {
     "title": "Piazza del Duomo di Trento",
-    "subtitle": "Il cuore storico e culturale di Trento",
-    "rating": "4.6/5",
-    "ratingCount": "(10.622 recensioni)",
-    "hours": "Mar-Dom 9:00-17:00, Lun e Mer Chiuso",
+    "subtitle": "Cattedrale, Fontana del Nettuno e storia nel centro di Trento",
+    "rating": "4,7/5",
+    "ratingCount": "(oltre 11.000 recensioni Google)",
+    "hours": "Piazza sempre accessibile; il Duomo ha orari propri",
     "address": "Piazza del Duomo, 18, 38122 Trento TN, Italia",
     "openMaps": "Apri su Google Maps",
     "tags": ["Cattedrale", "Piazza", "Fontana del Nettuno", "Affreschi", "Architettura", "Fotografia"]
@@ -48,7 +48,7 @@
   "gallery": {
     "title": "Galleria Fotografica",
     "subtitle": "Scorci di Piazza del Duomo di Trento",
-    "declaration": "Descrizioni da Google Maps, aggiornate di recente nel 2026. Per visualizzare tutte le foto, fai clic sul link",
+    "declaration": "Galleria del sito con didascalie redazionali. Per foto pubbliche piu recenti e indicazioni aggiornate sul luogo, consulta Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Vista panoramica della piazza con il Duomo" },
@@ -68,7 +68,7 @@
   },
   "reviews": {
     "title": "Recensioni Verificate dei Visitatori",
-    "declaration": "Le valutazioni e le recensioni provengono da Google Maps (ultimo aggiornamento: 2026). Mostriamo solo una selezione verificata di recensioni con voti alti. Per vedere tutte le recensioni complete e più recenti, fai clic sul link.",
+    "declaration": "Valutazione Google: 4,7/5 su 11.353 recensioni (ottobre 2026). Qui mostriamo una selezione redazionale di recensioni pubbliche; per il profilo completo e piu aggiornato consulta Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "moreText": "Vedi altre recensioni su Google Maps",
     "items": [
@@ -165,9 +165,9 @@
     "title": "Dati e Riferimenti",
     "text": "Questo sito è un progetto indipendente di informazione turistica su Trento. Non è affiliato alla gestione ufficiale della piazza né al comune di Trento.",
     "items": [
-      "Valutazioni e recensioni: Google Maps",
-      "Fotografie: Unsplash (licenza gratuita)",
-      "Informazioni storiche: fonti pubbliche, ufficio turistico del Trentino, Wikipedia"
+      "Valutazione Google aggiornata: 4,7/5 · 11.353 recensioni (ottobre 2026)",
+      "Scheda luogo, mappa e recensioni pubbliche: Google Maps",
+      "Informazioni storiche e turistiche: fonti pubbliche, Museo Diocesano Tridentino, Visit Trentino"
     ]
   },
   "footer": {
@@ -201,7 +201,7 @@
   },
   "terms": {
     "title": "Termini di Servizio",
-    "content": "Questo sito è un progetto di informazione turistica indipendente. I contenuti sono forniti a scopo informativo e potrebbero non essere sempre aggiornati. Le immagini provengono da Unsplash (licenza gratuita). Le recensioni sono estratte da fonti pubbliche. L'uso di questo sito implica l'accettazione di questi termini.",
+    "content": "Questo sito è un progetto di informazione turistica indipendente. I contenuti sono forniti a scopo informativo e possono essere aggiornati periodicamente. Le recensioni citate rimandano a fonti pubbliche; immagini e testi restano soggetti ai diritti dei rispettivi titolari, ove applicabile. L'uso del sito implica l'accettazione di questi termini.",
     "sections": [
       {
         "title": "1. Accettazione dei termini",
@@ -213,7 +213,7 @@
       },
       {
         "title": "3. Proprietà intellettuale",
-        "content": "Salvo diversa indicazione, tutti i contenuti di questo sito (inclusi testi, immagini, loghi) sono protetti da copyright. Nessuna riproduzione, distribuzione o uso commerciale è consentita senza esplicita autorizzazione. I crediti fotografici possono includere risorse esenti da royalty da piattaforme come Unsplash o contributori su Google Maps."
+        "content": "Salvo diversa indicazione, tutti i contenuti di questo sito (inclusi testi, immagini e loghi) sono protetti da copyright. Nessuna riproduzione, distribuzione o uso commerciale è consentita senza esplicita autorizzazione. Eventuali crediti e diritti di terzi restano ai rispettivi titolari."
       },
       {
         "title": "4. Limitazione di responsabilità",

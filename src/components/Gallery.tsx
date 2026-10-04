@@ -1,8 +1,23 @@
 "use client";
 import { useState, useEffect, useCallback } from "react";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 
-const PHOTOS = Array.from({ length: 13 }, (_, i) => `/gallery/images (${i + 1}).jpg`);
+const PHOTOS = [
+  "/gallery/piazza-del-duomo-trento-panorama.jpg",
+  "/gallery/fontana-del-nettuno-tramonto-trento.jpg",
+  "/gallery/case-cazuffi-rella-affreschi-trento.jpg",
+  "/gallery/torre-civica-palazzo-pretorio-trento.jpg",
+  "/gallery/piazza-del-duomo-trento-sera.jpg",
+  "/gallery/duomo-san-vigilio-portale-trento.jpg",
+  "/gallery/mercatini-natale-piazza-duomo-trento.jpg",
+  "/gallery/piazza-del-duomo-trento-vista-alto.jpg",
+  "/gallery/piazza-del-duomo-trento-angolo.jpg",
+  "/gallery/piazza-del-duomo-trento-dettagli-architettonici.jpg",
+  "/gallery/piazza-del-duomo-trento-panorama-2.jpg",
+  "/gallery/fontana-nettuno-trento-dettaglio.jpg",
+  "/gallery/piazza-duomo-trento-via-adiacente.jpg",
+];
 
 export default function Gallery() {
   const t = useTranslations("gallery");
@@ -75,12 +90,15 @@ export default function Gallery() {
         >
           {PHOTOS.map((src, i) => (
             <figure key={i} style={{ minWidth: "100%", margin: 0, position: "relative", cursor: "pointer" }} onClick={() => openLightbox(i)}>
-              <img
-                src={src}
-                alt={photos[i]?.caption || ""}
-                loading="lazy"
-                style={{ width: "100%", height: "60vh", maxHeight: "600px", objectFit: "cover", display: "block" }}
-              />
+              <div style={{ position: "relative", width: "100%", height: "60vh", maxHeight: "600px" }}>
+                <Image
+                  src={src}
+                  alt={photos[i]?.caption || ""}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 960px"
+                  style={{ objectFit: "cover", display: "block" }}
+                />
+              </div>
               <figcaption style={{ 
                 position: "absolute", bottom: 0, left: 0, right: 0, 
                 background: "linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%)", 
@@ -115,7 +133,9 @@ export default function Gallery() {
               transition: "opacity 0.2s, border-color 0.2s"
             }}
           >
-            <img src={src} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <div style={{ position: "relative", width: "100%", height: "100%" }}>
+              <Image src={src} alt="" fill sizes="60px" style={{ objectFit: "cover" }} />
+            </div>
           </button>
         ))}
       </div>
@@ -138,11 +158,15 @@ export default function Gallery() {
           </button>
           
           <div style={{ position: "relative", maxWidth: "90%", maxHeight: "90vh", display: "flex", flexDirection: "column", alignItems: "center" }} onClick={(e) => e.stopPropagation()}>
-            <img 
-              src={PHOTOS[lightboxIndex]} 
-              alt={photos[lightboxIndex]?.caption || ""}
-              style={{ maxWidth: "100%", maxHeight: "85vh", objectFit: "contain", borderRadius: "8px", boxShadow: "0 10px 30px rgba(0,0,0,0.5)" }}
-            />
+            <div style={{ position: "relative", width: "min(90vw, 1280px)", height: "min(85vh, 900px)" }}>
+              <Image
+                src={PHOTOS[lightboxIndex]}
+                alt={photos[lightboxIndex]?.caption || ""}
+                fill
+                sizes="90vw"
+                style={{ objectFit: "contain", borderRadius: "8px", boxShadow: "0 10px 30px rgba(0,0,0,0.5)" }}
+              />
+            </div>
             <div style={{ color: "#fff", textAlign: "center", marginTop: "1rem", fontSize: "1.1rem", fontWeight: 500, textShadow: "0 2px 4px rgba(0,0,0,0.5)" }}>
               {photos[lightboxIndex]?.caption || ""}
             </div>

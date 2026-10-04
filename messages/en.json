@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Piazza del Duomo di Trento – Visitor Guide",
-    "description": "Independent guide to Piazza del Duomo di Trento: history, photos, reviews and practical tips."
+    "title": "Piazza del Duomo Trento: what to see and visitor guide",
+    "description": "Guide to Piazza del Duomo di Trento: Cathedral of San Vigilio, Neptune Fountain, history, map and practical visit tips."
   },
   "nav": {
     "discover": "Discover",
@@ -17,10 +17,10 @@
   },
   "hero": {
     "title": "Piazza del Duomo di Trento",
-    "subtitle": "The historic and cultural heart of Trento",
-    "rating": "4.6/5",
-    "ratingCount": "(10,622 reviews)",
-    "hours": "Tue-Sun 9AM–5PM, Mon & Wed Closed",
+    "subtitle": "Cathedral, Neptune Fountain and history in Trento's old town",
+    "rating": "4.7/5",
+    "ratingCount": "(11,000+ Google reviews)",
+    "hours": "Square open at all times; cathedral hours vary",
     "address": "Piazza del Duomo, 18, 38122 Trento TN, Italy",
     "openMaps": "Open on Google Maps",
     "tags": ["Cathedral", "Square", "Neptune Fountain", "Frescoes", "Architecture", "Photography"]
@@ -48,7 +48,7 @@
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "Views of Piazza del Duomo di Trento",
-    "declaration": "Descriptions from Google Maps, recently updated in 2026. To view all photos, please click the link",
+    "declaration": "On-site gallery with editorial captions. For the latest public photos and up-to-date location details, see Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "photos": [
       { "caption": "Panoramic view of the square with the Cathedral" },
@@ -68,7 +68,7 @@
   },
   "reviews": {
     "title": "Real Visitor Reviews",
-    "declaration": "Ratings and reviews come from Google Maps (last updated: 2026). We only show a verified selection of highly-rated reviews. To see all complete and most recent reviews, please click the link",
+    "declaration": "Google rating: 4.7/5 from 11,353 reviews (October 2026). We show an editorial selection of public reviews here; for the full and latest profile, see Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "moreText": "See more reviews on Google Maps",
     "items": [
@@ -165,9 +165,9 @@
     "title": "Data & References",
     "text": "This site is an independent tourism information project about Trento. It is not affiliated with the official management of the square or the municipality of Trento.",
     "items": [
-      "Ratings and reviews: Google Maps",
-      "Photographs: Unsplash (free license)",
-      "Historical information: public sources, Trentino tourism office, Wikipedia"
+      "Updated Google rating: 4.7/5 · 11,353 reviews (October 2026)",
+      "Place profile, map and public reviews: Google Maps",
+      "Historical and travel information: public sources, Tridentine Diocesan Museum, Visit Trentino"
     ]
   },
   "footer": {
@@ -201,7 +201,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "content": "This site is an independent tourism information project. Content is provided for informational purposes and may not always be up to date. Images come from Unsplash (free license). Reviews are extracted from public sources. Use of this site implies acceptance of these terms.",
+    "content": "This site is an independent tourism information project. Content is provided for informational purposes and may be updated periodically. Referenced reviews point to public sources; images and texts remain subject to the rights of their respective owners where applicable. Use of this site implies acceptance of these terms.",
     "sections": [
       {
         "title": "1. Acceptance of Terms",
@@ -213,7 +213,7 @@
       },
       {
         "title": "3. Intellectual Property",
-        "content": "Unless otherwise indicated, all content on this site (including text, images, logos) is protected by copyright. No reproduction, distribution, or commercial use is allowed without explicit permission. Photo credits may include royalty-free resources from platforms like Unsplash or contributors on Google Maps."
+        "content": "Unless otherwise indicated, all content on this site (including text, images and logos) is protected by copyright. No reproduction, distribution or commercial use is allowed without explicit permission. Any third-party credits and rights remain with their respective owners."
       },
       {
         "title": "4. Limitation of Liability",

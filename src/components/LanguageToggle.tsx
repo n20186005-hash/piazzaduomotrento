@@ -2,6 +2,7 @@
 import { useLocale } from "next-intl";
 import { useRouter, usePathname } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
+import { italianGuideSlugs } from "@/content/italianCityGuides";
 
 export default function LanguageToggle() {
   const locale = useLocale();
@@ -32,6 +33,13 @@ export default function LanguageToggle() {
     // Remove the current locale from the URL if it exists
     if (currentLocales.includes(segments[0])) {
       segments.shift();
+    }
+
+    const currentSlug = segments[0];
+    if (currentSlug && italianGuideSlugs.includes(currentSlug) && newLocale !== "it") {
+      router.push(`/${newLocale}`);
+      setOpen(false);
+      return;
     }
     
     // Add the new locale, unless it's the default 'it'
