@@ -19,11 +19,18 @@
     "title": "Piazza del Duomo di Trento",
     "subtitle": "Cattedrale, Fontana del Nettuno e storia nel centro di Trento",
     "rating": "4,7/5",
-    "ratingCount": "(oltre 11.000 recensioni Google)",
-    "hours": "Piazza sempre accessibile; il Duomo ha orari propri",
+    "ratingCount": "(11.448 recensioni Google · 2 novembre 2026)",
+    "hours": "Piazza pubblica; ingressi ai monumenti separati",
     "address": "Piazza del Duomo, 18, 38122 Trento TN, Italia",
     "openMaps": "Apri su Google Maps",
-    "tags": ["Cattedrale", "Piazza", "Fontana del Nettuno", "Affreschi", "Architettura", "Fotografia"]
+    "tags": [
+      "Cattedrale",
+      "Piazza",
+      "Fontana del Nettuno",
+      "Affreschi",
+      "Architettura",
+      "Fotografia"
+    ]
   },
   "intro": {
     "title": "Perché visitare Piazza del Duomo",
@@ -48,79 +55,16 @@
   "gallery": {
     "title": "Galleria Fotografica",
     "subtitle": "Scorci di Piazza del Duomo di Trento",
-    "declaration": "Galleria del sito con didascalie redazionali. Per foto pubbliche piu recenti e indicazioni aggiornate sul luogo, consulta Google Maps.",
+    "declaration": "Consulta le fotografie pubblicate dai visitatori su Google Maps e verifica i dettagli aggiornati del luogo.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
-    "photos": [
-      { "caption": "Vista panoramica della piazza con il Duomo" },
-      { "caption": "Fontana del Nettuno al tramonto" },
-      { "caption": "Dettaglio degli affreschi delle Case Cazuffi-Rella" },
-      { "caption": "Torre Civica e Palazzo Pretorio" },
-      { "caption": "Atmosfera serale in piazza" },
-      { "caption": "Portale del Duomo di San Vigilio" },
-      { "caption": "Mercatini di Natale in Piazza Duomo" },
-      { "caption": "Vista dall'alto della piazza medievale" },
-      { "caption": "Angolo della piazza" },
-      { "caption": "Dettagli architettonici" },
-      { "caption": "Vista panoramica 2" },
-      { "caption": "Fontana da vicino" },
-      { "caption": "Vista della strada" }
-    ]
+    "photos": []
   },
   "reviews": {
     "title": "Recensioni Verificate dei Visitatori",
-    "declaration": "Valutazione Google: 4,7/5 su 11.353 recensioni (ottobre 2026). Qui mostriamo una selezione redazionale di recensioni pubbliche; per il profilo completo e piu aggiornato consulta Google Maps.",
+    "declaration": "Valutazione Google: 4,7/5 su 11.448 recensioni, controllata il 2 novembre 2026. Leggi le recensioni e gli aggiornamenti direttamente su Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "moreText": "Vedi altre recensioni su Google Maps",
-    "items": [
-      {
-        "name": "Giulia B.",
-        "date": "Marzo 2026",
-        "stars": 5,
-        "text": "Piazza stupenda, uno dei centri storici più belli del Trentino. Il Duomo è imponente e la Fontana del Nettuno è un gioiello."
-      },
-      {
-        "name": "Photographer",
-        "date": "Febbraio 2026",
-        "stars": 5,
-        "text": "Atmosfera incantevole sia di giorno che di notte. Gli affreschi sulle case sono straordinari. Da non perdere."
-      },
-      {
-        "name": "Elena R.",
-        "date": "Gennaio 2026",
-        "stars": 5,
-        "text": "Il cuore di Trento. Perfetta per una passeggiata, un caffè e per ammirare l'architettura storica. Molto ben tenuta."
-      },
-      {
-        "name": "Tourist",
-        "date": "Dicembre 2025",
-        "stars": 4,
-        "text": "Bellissima piazza storica. In inverno con i mercatini di Natale diventa magica. Un po' affollata nei fine settimana."
-      },
-      {
-        "name": "Sarah J.",
-        "date": "Novembre 2025",
-        "stars": 5,
-        "text": "Un luogo ricco di storia. Proprio qui si tenne il Concilio di Trento. Il Duomo merita una visita approfondita."
-      },
-      {
-        "name": "Local Guide",
-        "date": "Ottobre 2025",
-        "stars": 5,
-        "text": "Una delle piazze più fotogeniche d'Italia. La luce del tramonto sul Duomo è spettacolare."
-      },
-      {
-        "name": "Sophie L.",
-        "date": "Settembre 2025",
-        "stars": 4,
-        "text": "Piazza elegante e curata. Ottimi ristoranti nelle vicinanze. Consiglio di visitare anche la Trento sotterranea (SASS)."
-      },
-      {
-        "name": "History Enthusiast",
-        "date": "Agosto 2025",
-        "stars": 5,
-        "text": "Spettacolare! La combinazione di architettura medievale e rinascimentale è unica. Trento è un tesoro nascosto."
-      }
-    ]
+    "items": []
   },
   "comparison": {
     "title": "Guida alla Visita e Dintorni",
@@ -130,7 +74,7 @@
     },
     "worthIt": {
       "title": "Vale la pena?",
-      "text": "Assolutamente sì. È il punto di partenza ideale per scoprire Trento. Ingresso alla piazza gratuito, cattedrale gratuita."
+      "text": "La piazza è un punto di partenza per esplorare il centro. Gli accessi ai monumenti e alle aree archeologiche hanno condizioni proprie da verificare con i gestori."
     },
     "inside": {
       "title": "Cosa c'è dentro la Cattedrale?",
@@ -139,20 +83,36 @@
     "nearby": {
       "title": "Attrazioni nelle vicinanze",
       "items": [
-        { "name": "Castello del Buonconsiglio", "distance": "600m", "note": "Il più grande complesso monumentale del Trentino" },
-        { "name": "MUSE – Museo delle Scienze", "distance": "1.2km", "note": "Museo progettato da Renzo Piano" },
-        { "name": "Via Belenzani", "distance": "100m", "note": "Palazzo con affreschi rinascimentali" },
-        { "name": "Torre Civica", "distance": "0m", "note": "Nella piazza stessa, vista panoramica" }
+        {
+          "name": "Castello del Buonconsiglio",
+          "distance": "",
+          "note": "Il più grande complesso monumentale del Trentino"
+        },
+        {
+          "name": "MUSE – Museo delle Scienze",
+          "distance": "",
+          "note": "Museo progettato da Renzo Piano"
+        },
+        {
+          "name": "Via Belenzani",
+          "distance": "",
+          "note": "Via con palazzi dalle facciate affrescate"
+        },
+        {
+          "name": "Torre Civica",
+          "distance": "",
+          "note": "Nella piazza stessa, vista panoramica"
+        }
       ]
     },
     "tips": {
       "title": "Consigli pratici",
       "items": [
-        "Visita al mattino presto per evitare la folla e avere la luce migliore",
-        "I mercatini di Natale (novembre–dicembre) sono imperdibili",
-        "Parcheggio: Autosilo Buonconsiglio a 5 minuti a piedi",
-        "Accessibile in sedia a rotelle (piazza piana, pavimentazione liscia)",
-        "Combinare con una visita al Castello del Buonconsiglio"
+        "Per osservare facciate e fontana, scegli una passeggiata esterna nella piazza.",
+        "Per eventi e mercatini controlla sedi e calendario ufficiali: non presumere che si svolgano in Piazza Duomo.",
+        "Controlla parcheggi, ZTL e percorso prima di entrare nel centro in automobile.",
+        "Piazza, torre e basilica sotterranea hanno accessi diversi: chiedi al gestore informazioni adatte alle tue esigenze di mobilità.",
+        "Per la Torre Civica verifica sul sito del Museo Diocesano visite e disponibilità."
       ]
     }
   },
@@ -165,7 +125,7 @@
     "title": "Dati e Riferimenti",
     "text": "Questo sito è un progetto indipendente di informazione turistica su Trento. Non è affiliato alla gestione ufficiale della piazza né al comune di Trento.",
     "items": [
-      "Valutazione Google aggiornata: 4,7/5 · 11.353 recensioni (ottobre 2026)",
+      "Valutazione Google: 4,7/5 su 11.448 recensioni, controllata il 2 novembre 2026. Leggi le recensioni e gli aggiornamenti direttamente su Google Maps.",
       "Scheda luogo, mappa e recensioni pubbliche: Google Maps",
       "Informazioni storiche e turistiche: fonti pubbliche, Museo Diocesano Tridentino, Visit Trentino"
     ]

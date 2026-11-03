@@ -1,8 +1,7 @@
 import { useLocale, useTranslations } from "next-intl";
 
-const BASE_URL = "https://piazzaduomotrento.com";
+const BASE_URL = "https://www.piazzaduomotrento.com";
 const MAPS_URL = "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7";
-const IMAGE_URL = `${BASE_URL}/gallery/piazza-del-duomo-trento-hero.jpg`;
 
 export default function StructuredData() {
   const locale = useLocale();
@@ -45,7 +44,6 @@ export default function StructuredData() {
       "@type": "Organization",
       name: "Piazza del Duomo di Trento Guide",
       url: BASE_URL,
-      logo: IMAGE_URL,
     },
     {
       "@context": "https://schema.org",
@@ -54,7 +52,6 @@ export default function StructuredData() {
       name: "Piazza del Duomo di Trento",
       description: meta("description"),
       url: BASE_URL,
-      image: IMAGE_URL,
       sameAs: [MAPS_URL],
       touristType: ["Cultural tourism", "City break", "Architecture lovers"],
       isAccessibleForFree: true,

@@ -29,7 +29,7 @@ export default function Comparison() {
         {nearby.map((item, i) => (
           <div key={i} className="nearby-card">
             <div className="nearby-name">{item.name}</div>
-            <div className="nearby-distance">{item.distance}</div>
+            {item.distance ? <div className="nearby-distance">{item.distance}</div> : null}
             <div className="nearby-note">{item.note}</div>
           </div>
         ))}

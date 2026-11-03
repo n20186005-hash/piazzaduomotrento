@@ -19,11 +19,18 @@
     "title": "Piazza del Duomo di Trento",
     "subtitle": "Kathedrale, Neptunbrunnen und Geschichte in der Altstadt von Trient",
     "rating": "4,7/5",
-    "ratingCount": "(ueber 11.000 Google-Bewertungen)",
-    "hours": "Der Platz ist jederzeit zuganglich; fuer die Kathedrale gelten eigene Zeiten",
+    "ratingCount": "(11.448 Google-Rezensionen · 2. November 2026)",
+    "hours": "Öffentlicher Platz; separate Zugänge zu den Bauwerken",
     "address": "Piazza del Duomo, 18, 38122 Trento TN, Italien",
     "openMaps": "Auf Google Maps öffnen",
-    "tags": ["Kathedrale", "Platz", "Neptunbrunnen", "Fresken", "Architektur", "Fotografie"]
+    "tags": [
+      "Kathedrale",
+      "Platz",
+      "Neptunbrunnen",
+      "Fresken",
+      "Architektur",
+      "Fotografie"
+    ]
   },
   "intro": {
     "title": "Warum Sie die Piazza del Duomo besuchen sollten",
@@ -48,79 +55,16 @@
   "gallery": {
     "title": "Fotogalerie",
     "subtitle": "Ansichten der Piazza del Duomo in Trient",
-    "declaration": "Galerie auf dieser Website mit redaktionellen Bildtexten. Fuer aktuelle oeffentliche Fotos und Ortsdetails siehe Google Maps.",
+    "declaration": "Fotos von Besuchern und aktuelle Angaben zum Ort finden Sie auf Google Maps.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
-    "photos": [
-      { "caption": "Panoramablick auf den Platz mit der Kathedrale" },
-      { "caption": "Neptunbrunnen bei Sonnenuntergang" },
-      { "caption": "Detail der Fresken an den Cazuffi-Rella-Häusern" },
-      { "caption": "Stadtturm und Palazzo Pretorio" },
-      { "caption": "Abendstimmung auf dem Platz" },
-      { "caption": "Portal der Kathedrale San Vigilio" },
-      { "caption": "Weihnachtsmärkte auf der Piazza Duomo" },
-      { "caption": "Luftaufnahme des mittelalterlichen Platzes" },
-      { "caption": "Platzecke" },
-      { "caption": "Architektonische Details" },
-      { "caption": "Panoramablick 2" },
-      { "caption": "Brunnen aus der Nähe" },
-      { "caption": "Straßenansicht" }
-    ]
+    "photos": []
   },
   "reviews": {
     "title": "Echte Besucherbewertungen",
-    "declaration": "Google-Bewertung: 4,7/5 aus 11.353 Rezensionen (Oktober 2026). Hier zeigen wir eine redaktionelle Auswahl oeffentlicher Bewertungen; fuer das vollstaendige und aktuellste Profil siehe Google Maps.",
+    "declaration": "Google-Bewertung: 4,7/5 bei 11.448 Rezensionen, geprüft am 2. November 2026. Aktuelle Bewertungen direkt auf Google Maps lesen.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
     "moreText": "Weitere Bewertungen auf Google Maps ansehen",
-    "items": [
-      {
-        "name": "Giulia B.",
-        "date": "März 2026",
-        "stars": 5,
-        "text": "Atemberaubender Platz, eines der schönsten historischen Zentren im Trentino. Die Kathedrale ist beeindruckend und der Neptunbrunnen ein Juwel."
-      },
-      {
-        "name": "Photographer",
-        "date": "Februar 2026",
-        "stars": 5,
-        "text": "Bezaubernde Atmosphäre bei Tag und Nacht. Die Fresken an den Häusern sind außergewöhnlich. Ein Muss."
-      },
-      {
-        "name": "Elena R.",
-        "date": "Januar 2026",
-        "stars": 5,
-        "text": "Das Herz von Trient. Perfekt für einen Spaziergang, einen Kaffee und um die historische Architektur zu bewundern. Sehr gepflegt."
-      },
-      {
-        "name": "Tourist",
-        "date": "Dezember 2025",
-        "stars": 4,
-        "text": "Wunderschöner historischer Platz. Im Winter mit den Weihnachtsmärkten wird es magisch. Am Wochenende etwas überfüllt."
-      },
-      {
-        "name": "Sarah J.",
-        "date": "November 2025",
-        "stars": 5,
-        "text": "Ein Ort reich an Geschichte. Das Konzil von Trient fand genau hier statt. Die Kathedrale verdient einen ausführlichen Besuch."
-      },
-      {
-        "name": "Local Guide",
-        "date": "Oktober 2025",
-        "stars": 5,
-        "text": "Einer der fotogensten Plätze Italiens. Das Abendlicht auf der Kathedrale ist spektakulär."
-      },
-      {
-        "name": "Sophie L.",
-        "date": "September 2025",
-        "stars": 4,
-        "text": "Eleganter und gepflegter Platz. Ausgezeichnete Restaurants in der Nähe. Ich empfehle auch den Besuch des archäologischen Untergrunds."
-      },
-      {
-        "name": "History Enthusiast",
-        "date": "August 2025",
-        "stars": 5,
-        "text": "Spektakulär! Die Kombination aus mittelalterlicher und Renaissance-Architektur ist einzigartig. Trient ist ein verborgenes Juwel."
-      }
-    ]
+    "items": []
   },
   "comparison": {
     "title": "Besucherführer & Umgebung",
@@ -130,7 +74,7 @@
     },
     "worthIt": {
       "title": "Lohnt es sich?",
-      "text": "Absolut. Der ideale Ausgangspunkt, um Trient zu entdecken. Zugang zum Platz kostenlos, Kathedrale kostenlos."
+      "text": "Der Platz ist ein Ausgangspunkt für die Altstadt. Für Bauwerke und archäologische Bereiche gelten eigene Zugangsbedingungen der jeweiligen Betreiber."
     },
     "inside": {
       "title": "Was ist in der Kathedrale?",
@@ -139,20 +83,36 @@
     "nearby": {
       "title": "Sehenswürdigkeiten in der Nähe",
       "items": [
-        { "name": "Castello del Buonconsiglio", "distance": "600m", "note": "Der größte Monumentalkomplex im Trentino" },
-        { "name": "MUSE – Wissenschaftsmuseum", "distance": "1,2km", "note": "Von Renzo Piano entworfenes Museum" },
-        { "name": "Via Belenzani", "distance": "100m", "note": "Renaissance-Freskenpaläste" },
-        { "name": "Stadtturm", "distance": "0m", "note": "Auf dem Platz selbst, Panoramablick" }
+        {
+          "name": "Castello del Buonconsiglio",
+          "distance": "",
+          "note": "Der größte Monumentalkomplex im Trentino"
+        },
+        {
+          "name": "MUSE – Wissenschaftsmuseum",
+          "distance": "",
+          "note": "Von Renzo Piano entworfenes Museum"
+        },
+        {
+          "name": "Via Belenzani",
+          "distance": "",
+          "note": "Straße mit bemalten Palastfassaden"
+        },
+        {
+          "name": "Stadtturm",
+          "distance": "",
+          "note": "Auf dem Platz selbst, Panoramablick"
+        }
       ]
     },
     "tips": {
       "title": "Praktische Tipps",
       "items": [
-        "Früh morgens besuchen, um Menschenmengen zu vermeiden",
-        "Weihnachtsmärkte (November–Dezember) sind ein Muss",
-        "Parken: Autosilo Buonconsiglio, 5 Minuten zu Fuß",
-        "Rollstuhlgerecht (flacher Platz, glatte Pflasterung)",
-        "Kombination mit einem Besuch des Castello del Buonconsiglio"
+        "Entdecken Sie Fassaden und Brunnen bei einem Spaziergang über den Platz.",
+        "Prüfen Sie offizielle Termine und Veranstaltungsorte der Weihnachtsmärkte; Piazza Duomo ist nicht automatisch der Veranstaltungsort.",
+        "Prüfen Sie Parkplätze, Zufahrtsbeschränkungen und Route vor der Fahrt ins Zentrum.",
+        "Platz, Turm und unterirdische Basilika haben unterschiedliche Zugänge: fragen Sie die Betreiber nach Informationen zu Ihren Mobilitätsbedürfnissen.",
+        "Besuchstermine und Verfügbarkeit der Torre Civica beim Diözesanmuseum prüfen."
       ]
     }
   },
@@ -165,7 +125,7 @@
     "title": "Daten & Quellen",
     "text": "Diese Seite ist ein unabhängiges Tourismusinformationsprojekt über Trient. Sie ist nicht mit der offiziellen Verwaltung des Platzes oder der Gemeinde Trient verbunden.",
     "items": [
-      "Aktualisierte Google-Bewertung: 4,7/5 · 11.353 Rezensionen (Oktober 2026)",
+      "Google-Bewertung: 4,7/5 bei 11.448 Rezensionen, geprüft am 2. November 2026. Aktuelle Bewertungen direkt auf Google Maps lesen.",
       "Ortsprofil, Karte und oeffentliche Rezensionen: Google Maps",
       "Historische und touristische Informationen: oeffentliche Quellen, Dioezesanmuseum Trient, Visit Trentino"
     ]

@@ -1,5 +1,4 @@
 import { useTranslations } from "next-intl";
-import Image from "next/image";
 import LanguageToggle from "./LanguageToggle";
 import ThemeToggle from "./ThemeToggle";
 
@@ -23,17 +22,7 @@ export default function Hero() {
         </div>
       </header>
 
-      <div className="hero-bg">
-        <Image
-          src="/gallery/piazza-del-duomo-trento-hero.jpg"
-          alt="Piazza del Duomo di Trento"
-          fill
-          priority
-          sizes="100vw"
-          className="hero-img"
-        />
-        <div className="hero-overlay" />
-      </div>
+      <div className="hero-bg" aria-hidden="true" style={{ background: "linear-gradient(135deg, #122e3a, #365951 55%, #73573a)" }} />
 
       <div className="hero-content">
         <h1 className="hero-title">{t("title")}</h1>

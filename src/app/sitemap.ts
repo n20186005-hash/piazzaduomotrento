@@ -2,7 +2,7 @@ import { italianGuideSlugs } from '@/content/italianCityGuides'
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://piazzaduomotrento.com'
+  const baseUrl = 'https://www.piazzaduomotrento.com'
   const locales = ['en', 'de', 'zh-Hant'] // 'it' is default (no prefix)
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings']
 
