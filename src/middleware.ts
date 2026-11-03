@@ -11,7 +11,7 @@ const handleLocale = createMiddleware({
 
 export default function middleware(request: NextRequest) {
   const url = request.nextUrl;
-  const host = (request.headers.get('x-forwarded-host') || request.headers.get('host') || url.host).split(',')[0].trim().toLowerCase();
+  const host = (request.headers.get('host') || url.host).split(',')[0].trim().toLowerCase();
   const protocol = (request.headers.get('x-forwarded-proto') || url.protocol.replace(':', '')).split(',')[0].trim();
   const isPublicHost = ['piazzaduomotrento.com', 'www.piazzaduomotrento.com'].includes(host);
   if (isPublicHost && (host !== 'www.piazzaduomotrento.com' || protocol !== 'https')) {
