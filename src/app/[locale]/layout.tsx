@@ -21,9 +21,8 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   
-  const baseUrl = "https://piazzaduomotrento.com";
+  const baseUrl = "https://www.piazzaduomotrento.com";
   const path = locale === "it" ? "" : `/${locale}`;
-  const imageUrl = `${baseUrl}/gallery/piazza-del-duomo-trento-hero.jpg`;
   const ogLocaleMap: Record<string, string> = {
     it: "it_IT",
     en: "en_US",
@@ -41,18 +40,11 @@ export async function generateMetadata({
       siteName: "Piazza del Duomo di Trento",
       locale: ogLocaleMap[locale] || locale,
       type: "website",
-      images: [
-        {
-          url: imageUrl,
-          alt: "Piazza del Duomo di Trento",
-        },
-      ],
     },
     twitter: {
-      card: "summary_large_image",
+      card: "summary",
       title: t("title"),
       description: t("description"),
-      images: [imageUrl],
     },
     alternates: {
       canonical: `${baseUrl}${path}`,

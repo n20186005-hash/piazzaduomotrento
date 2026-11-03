@@ -27,9 +27,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return {};
   }
 
-  const baseUrl = "https://piazzaduomotrento.com";
+  const baseUrl = "https://www.piazzaduomotrento.com";
   const currentUrl = `${baseUrl}/${guide.slug}`;
-  const imageUrl = `${baseUrl}/gallery/piazza-del-duomo-trento-hero.jpg`;
   const rootMeta = await getTranslations({ locale: "it", namespace: "meta" });
 
   return {
@@ -42,18 +41,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: rootMeta("title"),
       locale: "it_IT",
       type: "article",
-      images: [
-        {
-          url: imageUrl,
-          alt: guide.shortTitle,
-        },
-      ],
     },
     twitter: {
-      card: "summary_large_image",
+      card: "summary",
       title: guide.metaTitle,
       description: guide.metaDescription,
-      images: [imageUrl],
     },
     alternates: {
       canonical: currentUrl,

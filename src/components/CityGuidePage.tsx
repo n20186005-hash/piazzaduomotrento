@@ -27,13 +27,13 @@ export default function CityGuidePage({ guide, locale }: CityGuidePageProps) {
           "@type": "ListItem",
           position: 1,
           name: "Piazza del Duomo di Trento",
-          item: "https://piazzaduomotrento.com/",
+          item: "https://www.piazzaduomotrento.com/",
         },
         {
           "@type": "ListItem",
           position: 2,
           name: guide.shortTitle,
-          item: `https://piazzaduomotrento.com/${guide.slug}`,
+          item: `https://www.piazzaduomotrento.com/${guide.slug}`,
         },
       ],
     },
@@ -43,12 +43,12 @@ export default function CityGuidePage({ guide, locale }: CityGuidePageProps) {
       headline: guide.metaTitle,
       description: guide.metaDescription,
       inLanguage: "it-IT",
-      mainEntityOfPage: `https://piazzaduomotrento.com/${guide.slug}`,
+      mainEntityOfPage: `https://www.piazzaduomotrento.com/${guide.slug}`,
       about: ["Trento", "Piazza del Duomo di Trento", "Centro storico di Trento"],
       publisher: {
         "@type": "Organization",
         name: "Piazza del Duomo di Trento Guide",
-        url: "https://piazzaduomotrento.com/",
+        url: "https://www.piazzaduomotrento.com/",
       },
     },
     {
@@ -124,6 +124,15 @@ export default function CityGuidePage({ guide, locale }: CityGuidePageProps) {
         </section>
       </section>
 
+      {guide.sources ? (
+        <section className="section section-muted" aria-labelledby="guide-sources">
+          <h2 id="guide-sources" className="subsection-title">Fonti e aggiornamenti</h2>
+          <p className="section-desc">Informazioni controllate il {guide.checkedAt}. Per aperture, disponibilità e condizioni di visita consulta sempre il gestore.</p>
+          <ul className="sources-list">{guide.sources.map((source) => (
+            <li key={source.url}><a href={source.url}>{source.title}</a></li>
+          ))}</ul>
+        </section>
+      ) : null}
       <CityGuidesSection locale={locale} currentSlug={guide.slug} />
       <Footer />
     </main>

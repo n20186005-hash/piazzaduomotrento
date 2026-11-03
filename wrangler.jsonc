@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "piazzaduomotrento",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-26",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "piazzaduomotrento"
+    }
+  ],
+  "images": {
+    "binding": "IMAGES"
+  }
+}

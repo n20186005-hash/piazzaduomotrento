@@ -1,3 +1,5 @@
+import { piazzaGuides } from "./piazzaGuides";
+
 export type GuideItem = {
   title: string;
   detail: string;
@@ -28,9 +30,12 @@ export type CityGuide = {
   items: GuideItem[];
   sections: GuideSection[];
   faq: GuideFaq[];
+  sources?: { title: string; url: string }[];
+  checkedAt?: string;
 };
 
 export const italianCityGuides: Record<string, CityGuide> = {
+  ...piazzaGuides,
   "cosa-vedere-trento": {
     slug: "cosa-vedere-trento",
     shortTitle: "Cosa vedere a Trento",
@@ -145,8 +150,8 @@ export const italianCityGuides: Record<string, CityGuide> = {
       {
         title: "Perche partire da Piazza del Duomo",
         paragraphs: [
-          "Dal punto di vista turistico e anche SEO, Piazza del Duomo resta il nodo principale della visita. E il luogo che rappresenta meglio Trento nelle immagini, nei racconti di viaggio e nella prima impressione della citta.",
-          "Proprio per questo conviene usare la piazza come hub: chi cerca cosa vedere a Trento trova una guida di citta, ma all'interno deve poter approfondire subito il monumento simbolo con una pagina dedicata su Piazza del Duomo.",
+          "Piazza del Duomo riunisce cattedrale, fontana e case affrescate: una prima sosta permette di scegliere quali aspetti approfondire durante la giornata.",
+          "Dopo aver osservato gli edifici dalla piazza, puoi continuare in Via Belenzani oppure scegliere una visita interna, controllando prima aperture e condizioni di ingresso.",
         ],
         bullets: [
           "La piazza e centrale e facile da raggiungere",
@@ -754,7 +759,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Mercatini di Natale a Trento: guida pratica alla visita",
     metaDescription:
       "Guida ai mercatini di Natale di Trento: Piazza Fiera, centro storico, atmosfera natalizia, periodi migliori e consigli utili per organizzare la visita.",
-    kicker: "Stagionalita forte",
+    kicker: "Mercatini e passeggiate",
     intro:
       "I mercatini di Natale sono uno dei momenti piu forti per visitare Trento. In questo periodo il centro storico cambia ritmo e atmosfera: Piazza Fiera diventa un polo molto importante, ma anche Piazza del Duomo e le vie centrali acquistano piu fascino, soprattutto nel tardo pomeriggio e in serata.",
     highlights: [
@@ -974,7 +979,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Dove dormire a Trento: zone e consigli per soggiornare",
     metaDescription:
       "Guida su dove dormire a Trento: centro storico, Piazza del Duomo, stazione, zone comode per auto o treno e consigli pratici per scegliere bene.",
-    kicker: "Soggiorno e conversione",
+    kicker: "Scegliere dove soggiornare",
     intro:
       "Scegliere dove dormire a Trento conta molto, perche la citta si visita bene a piedi ma cambia parecchio in comodita a seconda di come arrivi e di quanto tempo resti. Per la maggior parte dei viaggiatori la decisione migliore e stare in una zona che permetta di raggiungere facilmente Piazza del Duomo e il centro storico senza dipendere troppo dall'auto.",
     highlights: [
@@ -1084,7 +1089,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Trento a Natale: cosa vedere e consigli pratici",
     metaDescription:
       "Scopri com'e Trento a Natale: mercatini, Piazza del Duomo, luci, centro storico, idee per un weekend e consigli pratici per organizzarsi bene.",
-    kicker: "Periodo stagionale ad alta domanda",
+    kicker: "Trento durante le feste",
     intro:
       "Trento a Natale ha un'identita molto forte: mercatini, luci, centro storico e una dimensione invernale che rende la citta particolarmente attraente per weekend brevi e visite di una o due giornate. In questo periodo, pero, organizzarsi bene conta ancora di piu, perche cambiano affluenza, ritmi e scelte pratiche come parcheggio, pasti e alloggio.",
     highlights: [
@@ -1194,7 +1199,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Cosa fare a Trento quando piove: idee e consigli pratici",
     metaDescription:
       "Guida su cosa fare a Trento quando piove: musei, centro storico, Duomo, pause al coperto e idee per organizzare una giornata senza rovinare la visita.",
-    kicker: "Intento utile e situazionale",
+    kicker: "Visite nei giorni di pioggia",
     intro:
       "La pioggia non rovina per forza una visita a Trento, ma richiede un piccolo cambio di strategia. Invece di pensare la giornata come una lunga passeggiata continua, conviene alternare tappe al coperto, brevi spostamenti nel centro e pause ben distribuite. La buona notizia e che Trento si presta abbastanza bene a questa adattabilita.",
     highlights: [
@@ -1524,7 +1529,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Weekend a Trento: itinerario e consigli per 2 giorni",
     metaDescription:
       "Guida per organizzare un weekend a Trento: Piazza del Duomo, centro storico, castello, MUSE, cene in centro e idee per una seconda giornata.",
-    kicker: "Intento di viaggio completo",
+    kicker: "Un fine settimana a Trento",
     intro:
       "Un weekend a Trento e una formula molto equilibrata: la citta e abbastanza ricca da riempire bene due giorni, ma anche abbastanza compatta da non diventare dispersiva. Questo la rende perfetta per chi cerca una piccola fuga urbana con centro storico, tappe culturali, buona vivibilita a piedi e possibilita di estendere il viaggio anche ai dintorni.",
     highlights: [
@@ -1634,7 +1639,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "B&B a Trento centro: zone e consigli per scegliere bene",
     metaDescription:
       "Guida ai B&B a Trento centro: zone migliori, vantaggi di dormire vicino a Piazza del Duomo e consigli pratici per weekend, coppie e viaggi brevi.",
-    kicker: "Alloggio a forte intento",
+    kicker: "Soggiornare in un B&B",
     intro:
       "Chi cerca un B&B a Trento centro di solito vuole un soggiorno piu raccolto, pratico e vicino ai luoghi piu interessanti della citta. Per questo il centro storico resta quasi sempre la scelta piu sensata: ti permette di muoverti bene a piedi, vivere meglio la sera e partire ogni mattina da una posizione davvero utile per la visita.",
     highlights: [
@@ -1744,7 +1749,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Aperitivo a Trento: zone e consigli per una sosta in centro",
     metaDescription:
       "Guida all'aperitivo a Trento: dove fermarsi in centro, zone piu comode vicino a Piazza del Duomo e consigli per inserire l'aperitivo nel weekend o nella visita.",
-    kicker: "Intento food e lifestyle",
+    kicker: "Aperitivo in città",
     intro:
       "L'aperitivo a Trento e una di quelle ricerche che nascono spesso a visita gia avviata: hai visto il centro, stai finendo il pomeriggio e vuoi capire dove fermarti senza perdere l'atmosfera della citta. Per questo la scelta migliore, nella maggior parte dei casi, e restare nel centro storico e usare Piazza del Duomo come riferimento.",
     highlights: [
@@ -1854,7 +1859,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Trento in coppia: cosa fare per un weekend romantico",
     metaDescription:
       "Guida a Trento in coppia: Piazza del Duomo, hotel in centro, aperitivo, cena, mercatini e idee per un weekend romantico in citta.",
-    kicker: "Intento romantico e weekend",
+    kicker: "Una visita in coppia",
     intro:
       "Trento in coppia funziona molto bene perche unisce una scala urbana comoda, un centro storico elegante e un ritmo perfetto per weekend brevi. Non e una citta che richiede corse o grandi distanze: il suo punto forte e proprio la possibilita di vivere bene due giorni tra piazze, passeggiate, cena in centro e una base centrale da cui muoversi senza sforzo.",
     highlights: [
@@ -1964,7 +1969,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Cosa vedere a Trento gratis: idee e luoghi da visitare",
     metaDescription:
       "Guida su cosa vedere a Trento gratis: Piazza del Duomo, centro storico, passeggiate, scorci e idee utili per visitare la citta spendendo poco.",
-    kicker: "Long tail e budget travel",
+    kicker: "Passeggiate senza biglietto",
     intro:
       "Visitare Trento gratis e piu facile di quanto sembri, perche una parte importante del valore della citta sta proprio nei suoi spazi urbani: piazze, facciate, prospettive, passeggiate e atmosfera. Se organizzi bene l'itinerario, puoi vedere molto senza spendere quasi nulla e tenere eventuali ingressi a pagamento solo come aggiunta facoltativa.",
     highlights: [
@@ -2074,7 +2079,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Trento dove parcheggiare in centro: consigli pratici",
     metaDescription:
       "Guida su dove parcheggiare in centro a Trento: come organizzare l'arrivo in auto, muoversi verso Piazza del Duomo e visitare il centro storico senza perdere tempo.",
-    kicker: "Long tail pratico ad alta utilita",
+    kicker: "Arrivare in automobile",
     intro:
       "Chi cerca dove parcheggiare in centro a Trento ha in genere un bisogno molto concreto: arrivare in auto senza complicarsi la visita. La scelta migliore, quasi sempre, non e puntare al posto piu vicino in assoluto a Piazza del Duomo, ma trovare una soluzione comoda e poi continuare a piedi nel centro storico.",
     highlights: [
@@ -2184,7 +2189,7 @@ export const italianCityGuides: Record<string, CityGuide> = {
     metaTitle: "Trento nel weekend in inverno: idee e consigli pratici",
     metaDescription:
       "Guida a Trento nel weekend in inverno: Piazza del Duomo, mercatini, centro storico, hotel in centro e consigli per organizzare bene due giorni in citta.",
-    kicker: "Weekend stagionale e alto potenziale",
+    kicker: "Fine settimana invernale",
     intro:
       "Un weekend invernale a Trento ha una formula molto forte: centro storico raccolto, atmosfera elegante, luci, mercatini nel periodo natalizio e una scala urbana che si presta bene a due giorni lenti ma pieni. Per questo e una delle ricerche piu vicine a un intento reale di prenotazione e organizzazione.",
     highlights: [

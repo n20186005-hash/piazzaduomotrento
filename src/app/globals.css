@@ -785,12 +785,27 @@ a:hover {
   .header {
     padding: 0.75rem 1rem;
   }
+  .header {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
   .header-nav {
-    display: none;
+    display: flex;
+    flex: 1 1 100%;
+    order: 2;
+    gap: 1rem;
+    justify-content: space-between;
+  }
+  .header-actions {
+    margin-left: auto;
+  }
+  .nav-link {
+    font-size: 0.75rem;
+    padding: 0.4rem 0;
   }
   .hero {
     min-height: 80vh;
-    padding: 5rem 1.25rem 3rem;
+    padding: 8rem 1.25rem 3rem;
   }
   .hero-title {
     font-size: 2rem;

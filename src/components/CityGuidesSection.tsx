@@ -17,7 +17,7 @@ export default function CityGuidesSection({ locale, currentSlug }: CityGuidesSec
     <section className="section" id="city-guides">
       <h2 className="section-title">Approfondisci Trento</h2>
       <p className="section-desc">
-        Abbiamo mantenuto la home focalizzata su Piazza del Duomo e spostato le ricerche piu ampie su guide dedicate alla citta, cosi ogni pagina risponde meglio a un intento preciso.
+        Scegli una guida alla piazza, ai suoi monumenti o alla città per preparare la tua visita e collegare le tappe che ti interessano.
       </p>
 
       <div className="guide-links-grid">
