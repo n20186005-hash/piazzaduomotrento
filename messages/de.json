@@ -242,5 +242,54 @@
   "theme": {
     "light": "Hellmodus",
     "dark": "Dunkelmodus"
+  },
+  "localInformation": {
+    "title": "Anreise, Barrierefreiheit und lokale Hinweise",
+    "credit": "Informationen von Benedetta Comper, Guest Experience, Ufficio Informazioni - Trento, Azienda per il Turismo (Tourismusinformation Trento). Ergänzt durch die unten genannten öffentlichen Quellen; redaktionell aktualisiert am 3. November 2026. Dieser Informationsbeitrag bedeutet keine offizielle Genehmigung dieses unabhängigen Reiseführers.",
+    "cards": [
+      {
+        "title": "Öffentlicher Verkehr und ZTL",
+        "text": "Die Piazza Duomo liegt in einer verkehrsbeschränkten Zone (ZTL); Busse fahren nicht direkt auf den Platz. Als Ausgangspunkte kommen Haltestellen im Bereich Via Rosmini oder Piazza Dante am Bahnhof infrage. Gehen Sie von dort zu Fuß weiter. Prüfen Sie Haltestelle, Route und aktuelle Meldungen bei Trentino Trasporti; nicht jede Linie bedient dieselben Haltestellen."
+      },
+      {
+        "title": "Barrierefreiheit",
+        "text": "HandiCREA bietet Informationen zu Wegen und Hindernissen. Klären Sie Ihre individuellen Anforderungen mit den jeweiligen Betreibern: Die Zugänglichkeit des Platzes lässt keine Rückschlüsse auf den Turm, die unterirdische Basilika oder andere Denkmäler zu."
+      },
+      {
+        "title": "Veranstaltungen und vorübergehende Einschränkungen",
+        "text": "Veranstaltungen können Wege und Zugänge verändern. Beachten Sie Mitteilungen der Stadt und fragen Sie die örtliche Polizei nach zeitweiligen Verkehrsbeschränkungen. Die allgemeinen ZTL-Regeln gelten auch außerhalb von Veranstaltungen."
+      },
+      {
+        "title": "Historische Recherchen",
+        "text": "Die Tourismusinformation empfiehlt historische Bücher in der Zentralbibliothek in der Via Roma sowie das Museo Diocesano Tridentino und die Fondazione Museo Storico del Trentino."
+      },
+      {
+        "title": "Fotomaterial",
+        "text": "Die Tourismusinformation verweist auf die Bildergalerie von Visit Trentino. Prüfen Sie vor der Nutzung die Bedingungen jedes Bildes und holen Sie erforderliche Genehmigungen ein. Ein Link ist keine Nutzungslizenz."
+      }
+    ],
+    "linksTitle": "Quellen zur Prüfung und Planung",
+    "links": [
+      {
+        "title": "Tourismusinformation Trento",
+        "url": "https://www.visittrento.it/it"
+      },
+      {
+        "title": "Trentino Trasporti: Stadtverkehr Trento",
+        "url": "https://www.trentinotrasporti.it/it/viaggia-con-noi/urbano/trento"
+      },
+      {
+        "title": "HandiCREA: Barrierefreiheit",
+        "url": "https://www.handicrea.it/"
+      },
+      {
+        "title": "Stadt Trento: Mitteilungen und Dienste",
+        "url": "https://www.comune.trento.it/"
+      },
+      {
+        "title": "Visit Trentino: Bildergalerie",
+        "url": "https://gallery.visittrentino.info/it/immagini/?tags="
+      }
+    ]
   }
 }

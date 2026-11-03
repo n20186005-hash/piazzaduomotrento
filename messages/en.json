@@ -242,5 +242,54 @@
   "theme": {
     "light": "Light mode",
     "dark": "Dark mode"
+  },
+  "localInformation": {
+    "title": "Getting here, accessibility and local information",
+    "credit": "Information supplied by Benedetta Comper, Guest Experience, Ufficio Informazioni - Trento, Azienda per il Turismo (Trento tourist information office). Supplemented by the public sources below; editorial update: 3 November 2026. This information contribution does not constitute official approval of this independent guide.",
+    "cards": [
+      {
+        "title": "Public transport and restricted traffic",
+        "text": "Piazza Duomo is within the restricted-traffic zone (ZTL); buses do not arrive directly in the square. Consider stops around Via Rosmini or Piazza Dante, near the railway station, then continue on foot. Check your stop, route and current service notices with Trentino Trasporti; stops vary by service."
+      },
+      {
+        "title": "Accessibility",
+        "text": "Consult HandiCREA for information on routes and barriers. Confirm your particular needs with each operator: access to the square does not imply access to the tower, underground basilica or other monuments."
+      },
+      {
+        "title": "Events and temporary restrictions",
+        "text": "Events may change routes and access. Check municipal notices and contact the local police about temporary traffic restrictions. Normal ZTL rules apply independently of events."
+      },
+      {
+        "title": "Researching the history",
+        "text": "The tourist information office recommends historical books at the central library in Via Roma, the Museo Diocesano Tridentino and the Fondazione Museo Storico del Trentino for research about the square."
+      },
+      {
+        "title": "Photographic resources",
+        "text": "The Visit Trentino gallery was recommended by the tourist information office. Check each image’s conditions and obtain any necessary permission before use; a link is not a licence."
+      }
+    ],
+    "linksTitle": "Resources for checking and planning",
+    "links": [
+      {
+        "title": "Trento tourist information office",
+        "url": "https://www.visittrento.it/it"
+      },
+      {
+        "title": "Trentino Trasporti: Trento urban network",
+        "url": "https://www.trentinotrasporti.it/it/viaggia-con-noi/urbano/trento"
+      },
+      {
+        "title": "HandiCREA: accessibility information",
+        "url": "https://www.handicrea.it/"
+      },
+      {
+        "title": "Municipality of Trento: notices and services",
+        "url": "https://www.comune.trento.it/"
+      },
+      {
+        "title": "Visit Trentino: image gallery",
+        "url": "https://gallery.visittrentino.info/it/immagini/?tags="
+      }
+    ]
   }
 }

@@ -242,5 +242,54 @@
   "theme": {
     "light": "Modalità chiara",
     "dark": "Modalità scura"
+  },
+  "localInformation": {
+    "title": "Arrivo, accessibilità e informazioni locali",
+    "credit": "Indicazioni informative fornite da Benedetta Comper, Guest Experience, Ufficio Informazioni - Trento, Azienda per il Turismo. Integrate con le fonti pubbliche indicate sotto; aggiornamento editoriale del 3 novembre 2026. La collaborazione informativa non costituisce approvazione ufficiale di questa guida indipendente.",
+    "cards": [
+      {
+        "title": "Trasporto pubblico e ZTL",
+        "text": "Piazza Duomo si trova nella zona a traffico limitato: gli autobus non arrivano direttamente nella piazza. Valuta le fermate nell’area di Via Rosmini o Piazza Dante, vicino alla stazione ferroviaria, e prosegui a piedi. Verifica fermata, percorso e avvisi del giorno con Trentino Trasporti; non tutte le linee utilizzano le stesse fermate."
+      },
+      {
+        "title": "Accessibilità",
+        "text": "Consulta HandiCREA per informazioni su percorsi e barriere. Chiedi conferma per le tue esigenze specifiche: l’accessibilità della piazza non implica quella della torre, della basilica sotterranea o degli altri monumenti."
+      },
+      {
+        "title": "Eventi e limitazioni temporanee",
+        "text": "Eventi e manifestazioni possono modificare passaggi e accessi. Per divieti temporanei di transito consulta gli avvisi del Comune e la Polizia Locale; la ZTL ha regole proprie anche fuori dagli eventi."
+      },
+      {
+        "title": "Approfondire la storia",
+        "text": "Per ricerche sulla piazza, l’ufficio informazioni suggerisce i libri storici della biblioteca centrale in Via Roma, il Museo Diocesano Tridentino e la Fondazione Museo Storico del Trentino."
+      },
+      {
+        "title": "Materiale fotografico",
+        "text": "La galleria Visit Trentino è una risorsa indicata dall’ufficio informazioni. Consulta le condizioni di ciascuna immagine e ottieni le autorizzazioni necessarie prima dell’uso: il collegamento non equivale a una licenza."
+      }
+    ],
+    "linksTitle": "Risorse per verificare e pianificare",
+    "links": [
+      {
+        "title": "Azienda per il Turismo Trento",
+        "url": "https://www.visittrento.it/it"
+      },
+      {
+        "title": "Trentino Trasporti: rete urbana di Trento",
+        "url": "https://www.trentinotrasporti.it/it/viaggia-con-noi/urbano/trento"
+      },
+      {
+        "title": "HandiCREA: accessibilità e informazioni",
+        "url": "https://www.handicrea.it/"
+      },
+      {
+        "title": "Comune di Trento: avvisi e servizi",
+        "url": "https://www.comune.trento.it/"
+      },
+      {
+        "title": "Visit Trentino: galleria immagini",
+        "url": "https://gallery.visittrentino.info/it/immagini/?tags="
+      }
+    ]
   }
 }

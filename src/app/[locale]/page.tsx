@@ -5,6 +5,7 @@ import Gallery from "@/components/Gallery";
 import Reviews from "@/components/Reviews";
 import Comparison from "@/components/Comparison";
 import MapEmbed from "@/components/MapEmbed";
+import LocalInformation from "@/components/LocalInformation";
 import Sources from "@/components/Sources";
 import Footer from "@/components/Footer";
 import StructuredData from "@/components/StructuredData";
@@ -22,6 +23,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
       <Reviews />
       <Comparison />
       <CityGuidesSection locale={locale} />
+      <LocalInformation />
       <MapEmbed />
       <Sources />
       <Footer />

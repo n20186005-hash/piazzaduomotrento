@@ -242,5 +242,54 @@
   "theme": {
     "light": "日間模式",
     "dark": "夜間模式"
+  },
+  "localInformation": {
+    "title": "交通、無障礙與當地資訊",
+    "credit": "資訊提供：特倫托旅遊局 Azienda per il Turismo，特倫托旅遊諮詢處 Ufficio Informazioni - Trento，Benedetta Comper（Guest Experience）。並參考下列公開來源整理，編輯更新日期：2026年11月3日。提供資訊不代表官方認證或批准本獨立指南。",
+    "cards": [
+      {
+        "title": "公共交通與限行區",
+        "text": "大教堂廣場位於限行區（ZTL），巴士不會直接駛入廣場。可考慮在 Via Rosmini 一帶或火車站附近的 Piazza Dante 下車，再步行前往。請向 Trentino Trasporti 查閱當日路線、站點及服務通告；各路線停靠站並不相同。"
+      },
+      {
+        "title": "無障礙資訊",
+        "text": "可向 HandiCREA 查詢路線與障礙物資訊，並向各設施確認個別需求。廣場的通行條件不代表市民塔、地下聖堂或其他古蹟同樣適合進入。"
+      },
+      {
+        "title": "活動與臨時限制",
+        "text": "活動可能影響通道及出入安排。臨時交通限制請查閱市政府通告或向當地警察確認；平日仍須遵守 ZTL 限行規則。"
+      },
+      {
+        "title": "歷史資料查詢",
+        "text": "旅遊諮詢處建議查閱 Via Roma 中央圖書館的歷史書籍，或向 Museo Diocesano Tridentino（特倫托教區博物館）、Fondazione Museo Storico del Trentino（特倫蒂諾歷史博物館基金會）諮詢。"
+      },
+      {
+        "title": "照片資源",
+        "text": "旅遊諮詢處推薦 Visit Trentino 圖庫作為素材查詢來源。使用前須逐張核對條款並取得必要許可；提供連結不等於授予照片使用權。"
+      }
+    ],
+    "linksTitle": "查核與行程規劃來源",
+    "links": [
+      {
+        "title": "特倫托旅遊局",
+        "url": "https://www.visittrento.it/it"
+      },
+      {
+        "title": "Trentino Trasporti：特倫托市區交通",
+        "url": "https://www.trentinotrasporti.it/it/viaggia-con-noi/urbano/trento"
+      },
+      {
+        "title": "HandiCREA：無障礙資訊",
+        "url": "https://www.handicrea.it/"
+      },
+      {
+        "title": "特倫托市政府：通告與服務",
+        "url": "https://www.comune.trento.it/"
+      },
+      {
+        "title": "Visit Trentino：圖片庫",
+        "url": "https://gallery.visittrentino.info/it/immagini/?tags="
+      }
+    ]
   }
 }
