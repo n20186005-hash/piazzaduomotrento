@@ -54,10 +54,50 @@
   },
   "gallery": {
     "title": "照片集",
-    "subtitle": "特倫托主教座堂廣場掠影",
-    "declaration": "前往 Google Maps 查看旅客發布的照片與最新地點資訊。",
+    "subtitle": "已恢復的相片集",
+    "declaration": "原網站保留的相片；來源、攝影者、授權與拍攝地點細節待核實。",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
-    "photos": []
+    "photos": [
+      {
+        "caption": "相片 1"
+      },
+      {
+        "caption": "相片 2"
+      },
+      {
+        "caption": "相片 3"
+      },
+      {
+        "caption": "相片 4"
+      },
+      {
+        "caption": "相片 5"
+      },
+      {
+        "caption": "相片 6"
+      },
+      {
+        "caption": "相片 7"
+      },
+      {
+        "caption": "相片 8"
+      },
+      {
+        "caption": "相片 9"
+      },
+      {
+        "caption": "相片 10"
+      },
+      {
+        "caption": "相片 11"
+      },
+      {
+        "caption": "相片 12"
+      },
+      {
+        "caption": "相片 13"
+      }
+    ]
   },
   "reviews": {
     "title": "真實遊客評價",

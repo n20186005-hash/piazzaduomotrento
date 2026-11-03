@@ -54,10 +54,50 @@
   },
   "gallery": {
     "title": "Fotogalerie",
-    "subtitle": "Ansichten der Piazza del Duomo in Trient",
-    "declaration": "Fotos von Besuchern und aktuelle Angaben zum Ort finden Sie auf Google Maps.",
+    "subtitle": "Wiederhergestellte Fotosammlung",
+    "declaration": "Fotos der ursprünglichen Website; Quelle, Fotograf, Lizenz und Ortsangaben werden noch geprüft.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
-    "photos": []
+    "photos": [
+      {
+        "caption": "Foto 1"
+      },
+      {
+        "caption": "Foto 2"
+      },
+      {
+        "caption": "Foto 3"
+      },
+      {
+        "caption": "Foto 4"
+      },
+      {
+        "caption": "Foto 5"
+      },
+      {
+        "caption": "Foto 6"
+      },
+      {
+        "caption": "Foto 7"
+      },
+      {
+        "caption": "Foto 8"
+      },
+      {
+        "caption": "Foto 9"
+      },
+      {
+        "caption": "Foto 10"
+      },
+      {
+        "caption": "Foto 11"
+      },
+      {
+        "caption": "Foto 12"
+      },
+      {
+        "caption": "Foto 13"
+      }
+    ]
   },
   "reviews": {
     "title": "Echte Besucherbewertungen",

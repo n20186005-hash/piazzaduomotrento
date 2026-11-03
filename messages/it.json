@@ -54,10 +54,50 @@
   },
   "gallery": {
     "title": "Galleria Fotografica",
-    "subtitle": "Scorci di Piazza del Duomo di Trento",
-    "declaration": "Consulta le fotografie pubblicate dai visitatori su Google Maps e verifica i dettagli aggiornati del luogo.",
+    "subtitle": "Raccolta fotografica ripristinata",
+    "declaration": "Fotografie del sito originale; fonte, autore, licenza e dettagli del luogo sono in attesa di verifica.",
     "moreLink": "https://maps.app.goo.gl/1iNxDPaAG2d3GPSz7",
-    "photos": []
+    "photos": [
+      {
+        "caption": "Foto 1"
+      },
+      {
+        "caption": "Foto 2"
+      },
+      {
+        "caption": "Foto 3"
+      },
+      {
+        "caption": "Foto 4"
+      },
+      {
+        "caption": "Foto 5"
+      },
+      {
+        "caption": "Foto 6"
+      },
+      {
+        "caption": "Foto 7"
+      },
+      {
+        "caption": "Foto 8"
+      },
+      {
+        "caption": "Foto 9"
+      },
+      {
+        "caption": "Foto 10"
+      },
+      {
+        "caption": "Foto 11"
+      },
+      {
+        "caption": "Foto 12"
+      },
+      {
+        "caption": "Foto 13"
+      }
+    ]
   },
   "reviews": {
     "title": "Recensioni Verificate dei Visitatori",
